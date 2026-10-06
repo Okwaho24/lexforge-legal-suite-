@@ -43,7 +43,7 @@ jobs:
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"
           fi
-          node scripts/generate_templates.js $ARGS
+          node scripts/generate_templates.cjs $ARGS
 
       - name: Commit generated templates
         run: |
