@@ -667,7 +667,7 @@ for (const jur of jurisdictionsToRun) {
   const rules = JURISDICTION_RULES[jur];
   if (!rules) { console.error(`[ERROR] Unknown jurisdiction: ${jur}`); errors++; continue; }
   const languages = JURISDICTION_LANGUAGES[jur];
-  const acerbe = require('./acerbe_clauses.cjs').ACERBE_BY_JURISDICTION[jur];
+  const acerbe = getAcerbeClause(jur);
 
   for (const doc of DOCS) {
     for (const lang of languages) {
