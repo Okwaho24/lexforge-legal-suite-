@@ -1,0 +1,55 @@
+name: Generate LexForge™ Template Matrix
+
+on:
+  workflow_dispatch:
+    inputs:
+      jurisdiction:
+        description: 'Comma-separated jurisdictions: US,CA,EU,UK,AU,FR,ES (blank = all)'
+        required: false
+        default: ''
+      skip_existing:
+        description: 'Skip files that already exist'
+        type: boolean
+        default: true
+      dry_run:
+        description: 'Dry run — print paths without writing files'
+        type: boolean
+        default: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate templates
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.jurisdiction }}" ]; then
+            ARGS="$ARGS --jurisdiction ${{ github.event.inputs.jurisdiction }}"
+          fi
+          if [ "${{ github.event.inputs.skip_existing }}" = "true" ]; then
+            ARGS="$ARGS --skip-existing"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          node scripts/generate_templates.js $ARGS
+
+      - name: Commit generated templates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add templates/
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "[ARC-LXF-001] chore: generate LexForge™ template matrix — ACA ISC 102237785"
+          git push
