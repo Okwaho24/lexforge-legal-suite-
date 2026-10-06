@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Terms of Service
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Terms of Service
 **LexForge™ Document ID:** ARC-LXF-06-TOS | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -24,7 +24,7 @@
 By accessing or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 ## 2. ELIGIBILITY
-You must be at least 18 years of age and capable of forming a binding contract under Delaware law.
+You must be at least 18 years of age and capable of forming a binding contract under Delaware, United States law.
 
 ## 3. ACCOUNT
 You are responsible for maintaining the security of your account credentials. Notify us immediately of unauthorized access.
@@ -33,19 +33,19 @@ You are responsible for maintaining the security of your account credentials. No
 You shall not: (a) violate applicable law; (b) infringe third-party rights; (c) tamper with AcerbE™ fingerprints embedded in Service assets; (d) attempt to reverse engineer the Service; (e) use the Service for spam or malicious activity.
 
 ## 5. INTELLECTUAL PROPERTY
-All Service content is owned by Operator or its licensors. AcerbE™ fingerprinted assets are protected under 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA). No license is granted beyond what is expressly stated.
+All Service content is owned by Operator or its licensors. AcerbE™ fingerprinted assets are protected under undefined and undefined. No license is granted beyond what is expressly stated.
 
 ## 6. PRIVACY
-Your use of the Service is subject to our Privacy Policy, which complies with CCPA/CPRA, applicable state privacy laws.
+Your use of the Service is subject to our Privacy Policy, which complies with CCPA/CPRA (California) and applicable U.S. state privacy laws.
 
 ## 7. DISCLAIMERS
-SERVICE PROVIDED "AS IS." OPERATOR DISCLAIMS ALL IMPLIED WARRANTIES TO THE FULLEST EXTENT PERMITTED BY DELAWARE LAW.
+SERVICE PROVIDED "AS IS." OPERATOR DISCLAIMS ALL IMPLIED WARRANTIES TO THE FULLEST EXTENT PERMITTED BY DELAWARE, UNITED STATES LAW.
 
 ## 8. LIMITATION OF LIABILITY
 OPERATOR'S LIABILITY IS LIMITED TO THE GREATER OF FEES PAID IN THE PRIOR 12 MONTHS OR $100 USD.
 
 ## 9. GOVERNING LAW
-Delaware. Disputes: American Arbitration Association (AAA) under AAA Commercial Arbitration Rules.
+Delaware, United States. Disputes: American Arbitration Association (AAA) under AAA Commercial Arbitration Rules.
 
 ## 10. CHANGES
 We may update these Terms with notice. Continued use constitutes acceptance.
@@ -58,7 +58,7 @@ We may update these Terms with notice. Continued use constitutes acceptance.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

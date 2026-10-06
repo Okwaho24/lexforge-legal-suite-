@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Investment Agreement
   Jurisdiction: EU | Language: ES
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Investment Agreement
 **LexForge™ Document ID:** ARC-LXF-19-INV | **Jurisdiction:** EU | **Language:** ES
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -26,7 +26,7 @@
 Investor invests USD {{INVESTMENT_AMOUNT}} in exchange for {{SECURITY_TYPE}} representing {{OWNERSHIP_PERCENTAGE}}% of Company on a fully-diluted basis.
 
 ## 2. REPRESENTATIONS — INVESTOR
-Investor represents: (a) accredited investor status per MiFID II / Prospectus Regulation (EU) 2017/1129; (b) investment for own account; (c) understands restrictions on transfer.
+Investor represents: (a) accredited investor status per MiFID II qualified investor definition; (b) investment for own account; (c) understands restrictions on transfer.
 
 ## 3. USE OF PROCEEDS
 {{USE_OF_PROCEEDS_DESCRIPTION}}.
@@ -35,13 +35,13 @@ Investor represents: (a) accredited investor status per MiFID II / Prospectus Re
 Investor receives {{LIQUIDATION_MULTIPLE|1x}} liquidation preference before common distribution.
 
 ## 5. SECURITIES EXEMPTION
-Offered under Prospectus Regulation exemptions (Art. 1(4)). No registration required.
+Offered under Prospectus Regulation (EU) 2017/1129 exemption. No registration required.
 
 ## 5.10. ACERBE™
-AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive).
+AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
-Ireland (EU Member State). Arbitration: ICC International Court of Arbitration.
+Republic of Ireland (EU member state). Arbitration: Court of Arbitration of the International Chamber of Commerce (ICC).
 
 **COMPANY:** Sig: ___ | Name: {{COMPANY_SIGNATORY}} | Title: {{COMPANY_TITLE}} | Date: ___
 **INVESTOR:** Sig: ___ | Name: {{INVESTOR_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Ireland (EU Member State). Arbitration: ICC International Court of Arbitration.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

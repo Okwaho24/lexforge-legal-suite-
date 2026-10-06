@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Independent Contractor Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Independent Contractor Agreement
 **LexForge™ Document ID:** ARC-LXF-04-ICA | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ## 1. INDEPENDENT CONTRACTOR STATUS
-Contractor is an independent contractor. No employment, partnership, or agency relationship is created. Contractor is responsible for own taxes (IRS Form 1099-NEC issued where applicable).
+Contractor is an independent contractor. No employment, partnership, or agency relationship is created. Contractor is responsible for own taxes (1099-NEC issued where applicable).
 
 ## 2. SERVICES
 Contractor shall perform services per each Statement of Work. Services performed in a professional manner.
@@ -32,13 +32,13 @@ Contractor shall perform services per each Statement of Work. Services performed
 Fees per SOW in USD. Payment due {{PAYMENT_TERMS|30 days}}. No benefits, workers' compensation, or employer contributions.
 
 ## 4. INTELLECTUAL PROPERTY
-Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA).
+Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates undefined and undefined.
 
 ## 5. CONFIDENTIALITY
 Contractor holds Client's Confidential Information in strict confidence. Survives 3 years.
 
 ## 6. GOVERNING LAW
-Delaware. Disputes: American Arbitration Association (AAA) under AAA Commercial Arbitration Rules.
+Delaware, United States. Disputes: American Arbitration Association (AAA) under AAA Commercial Arbitration Rules.
 
 ## SIGNATURES
 **CLIENT:** Sig: ___ | Name: {{CLIENT_SIGNATORY}} | Date: ___
@@ -52,7 +52,7 @@ Delaware. Disputes: American Arbitration Association (AAA) under AAA Commercial 
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

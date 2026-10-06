@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Data Processing Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Data Processing Agreement
 **LexForge™ Document ID:** ARC-LXF-14-DPA | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -25,19 +25,19 @@
 Processor processes personal data on behalf of Controller as described in Annex 1.
 
 ## 2. PROCESSOR OBLIGATIONS
-Processor shall: (a) process data only on Controller's documented instructions; (b) implement appropriate technical and organizational security measures; (c) not engage sub-processors without prior written consent; (d) assist Controller in fulfilling data subject rights under CCPA/CPRA, applicable state privacy laws.
+Processor shall: (a) process data only on Controller's documented instructions; (b) implement appropriate technical and organizational security measures; (c) not engage sub-processors without prior written consent; (d) assist Controller in fulfilling data subject rights under CCPA/CPRA (California) and applicable U.S. state privacy laws.
 
 ## 3. SUB-PROCESSORS
 Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of changes.
 
 ## 4. DATA BREACH
-Processor notifies Controller within 72 hours (GDPR-equivalent) / 30 days (state law) of becoming aware of a personal data breach.
+Processor notifies Controller within 72 hours (California) / 30 days (federal standard) of becoming aware of a personal data breach.
 
 ## 5. ACERBE™
-AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: 17 U.S.C. § 1201 (DMCA).
+AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: undefined.
 
 ## 6. GOVERNING LAW
-Delaware. This DPA is governed by CCPA/CPRA, applicable state privacy laws.
+Delaware, United States. This DPA is governed by CCPA/CPRA (California) and applicable U.S. state privacy laws.
 
 **CONTROLLER:** Sig: ___ | Name: {{CONTROLLER_SIGNATORY}} | Date: ___
 **PROCESSOR:** Sig: ___ | Name: {{PROCESSOR_SIGNATORY}} | Date: ___
@@ -50,7 +50,7 @@ Delaware. This DPA is governed by CCPA/CPRA, applicable state privacy laws.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

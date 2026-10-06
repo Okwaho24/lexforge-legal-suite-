@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Memorandum of Understanding
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Memorandum of Understanding
 **LexForge™ Document ID:** ARC-LXF-10-MOU | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -31,10 +31,10 @@ Except for Sections marked BINDING, this MOU is non-binding and does not create 
 ## BINDING PROVISIONS
 - Confidentiality: Each Party protects the other's Confidential Information for {{CONF_TERM|2 years}}
 - No Partnership: Nothing herein creates a partnership, joint venture, or agency
-- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates Copyright Act (R.S.C. 1985, c. C-42) s. 41.1
+- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates undefined
 
 ## GOVERNING LAW
-Ontario.
+Ontario, Canada.
 
 **PARTY A:** Sig: ___ | Name: {{PARTY_A_SIGNATORY}} | Date: ___
 **PARTY B:** Sig: ___ | Name: {{PARTY_B_SIGNATORY}} | Date: ___
@@ -47,7 +47,7 @@ Ontario.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

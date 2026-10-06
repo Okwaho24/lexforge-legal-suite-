@@ -29,7 +29,7 @@ Warrantor warrants that {{PRODUCT_SERVICE_NAME}} will conform materially to its 
 Any defect, breakage, or non-conformance: return to point of sale for immediate replacement. No questions asked. This warranty is valid only while the AcerbE™ fingerprint remains intact with zero tampering marks.
 
 ## 3. ACERBE™ CONDITION
-This warranty is void if the AcerbE™ cryptographic fingerprint has been removed, altered, or shows any tampering markers. Tampering may additionally violate Copyright, Designs and Patents Act 1988 s. 296ZA.
+This warranty is void if the AcerbE™ cryptographic fingerprint has been removed, altered, or shows any tampering markers. Tampering may additionally violate undefined.
 
 ## 4. EXCLUSIONS
 Warranty does not cover: (a) misuse or unauthorized modification; (b) AcerbE™ fingerprint tampering; (c) damage from causes outside Warrantor's control.
@@ -45,7 +45,7 @@ England and Wales.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

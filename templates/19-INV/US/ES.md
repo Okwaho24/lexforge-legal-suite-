@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Investment Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Investment Agreement
 **LexForge™ Document ID:** ARC-LXF-19-INV | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -26,7 +26,7 @@
 Investor invests USD {{INVESTMENT_AMOUNT}} in exchange for {{SECURITY_TYPE}} representing {{OWNERSHIP_PERCENTAGE}}% of Company on a fully-diluted basis.
 
 ## 2. REPRESENTATIONS — INVESTOR
-Investor represents: (a) accredited investor status per Rule 501(a) of Regulation D under the Securities Act of 1933; (b) investment for own account; (c) understands restrictions on transfer.
+Investor represents: (a) accredited investor status per SEC Rule 501 of Regulation D; (b) investment for own account; (c) understands restrictions on transfer.
 
 ## 3. USE OF PROCEEDS
 {{USE_OF_PROCEEDS_DESCRIPTION}}.
@@ -35,13 +35,13 @@ Investor represents: (a) accredited investor status per Rule 501(a) of Regulatio
 Investor receives {{LIQUIDATION_MULTIPLE|1x}} liquidation preference before common distribution.
 
 ## 5. SECURITIES EXEMPTION
-Offered under Section 4(a)(2) and/or Rule 506(b) of Regulation D. No registration required.
+Offered under Regulation D, Rule 506(b). No registration required.
 
 ## 5.10. ACERBE™
-AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA).
+AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
-Delaware. Arbitration: American Arbitration Association (AAA).
+Delaware, United States. Arbitration: American Arbitration Association (AAA).
 
 **COMPANY:** Sig: ___ | Name: {{COMPANY_SIGNATORY}} | Title: {{COMPANY_TITLE}} | Date: ___
 **INVESTOR:** Sig: ___ | Name: {{INVESTOR_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Delaware. Arbitration: American Arbitration Association (AAA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

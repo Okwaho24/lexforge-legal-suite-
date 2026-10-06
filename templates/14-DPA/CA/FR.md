@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Data Processing Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Data Processing Agreement
 **LexForge™ Document ID:** ARC-LXF-14-DPA | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -25,19 +25,19 @@
 Processor processes personal data on behalf of Controller as described in Annex 1.
 
 ## 2. PROCESSOR OBLIGATIONS
-Processor shall: (a) process data only on Controller's documented instructions; (b) implement appropriate technical and organizational security measures; (c) not engage sub-processors without prior written consent; (d) assist Controller in fulfilling data subject rights under Personal Information Protection and Electronic Documents Act (PIPEDA) / Bill C-27 (CPPA).
+Processor shall: (a) process data only on Controller's documented instructions; (b) implement appropriate technical and organizational security measures; (c) not engage sub-processors without prior written consent; (d) assist Controller in fulfilling data subject rights under PIPEDA / Bill C-27 (CPPA).
 
 ## 3. SUB-PROCESSORS
 Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of changes.
 
 ## 4. DATA BREACH
-Processor notifies Controller within as soon as feasible — PIPEDA breach of security safeguards reporting of becoming aware of a personal data breach.
+Processor notifies Controller within 72 hours of becoming aware of a personal data breach.
 
 ## 5. ACERBE™
-AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: Copyright Act (R.S.C. 1985, c. C-42) s. 41.1.
+AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: undefined.
 
 ## 6. GOVERNING LAW
-Ontario. This DPA is governed by Personal Information Protection and Electronic Documents Act (PIPEDA) / Bill C-27 (CPPA).
+Ontario, Canada. This DPA is governed by PIPEDA / Bill C-27 (CPPA).
 
 **CONTROLLER:** Sig: ___ | Name: {{CONTROLLER_SIGNATORY}} | Date: ___
 **PROCESSOR:** Sig: ___ | Name: {{PROCESSOR_SIGNATORY}} | Date: ___
@@ -50,7 +50,7 @@ Ontario. This DPA is governed by Personal Information Protection and Electronic 
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

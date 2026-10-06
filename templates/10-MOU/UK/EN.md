@@ -31,7 +31,7 @@ Except for Sections marked BINDING, this MOU is non-binding and does not create 
 ## BINDING PROVISIONS
 - Confidentiality: Each Party protects the other's Confidential Information for {{CONF_TERM|2 years}}
 - No Partnership: Nothing herein creates a partnership, joint venture, or agency
-- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates Copyright, Designs and Patents Act 1988 s. 296ZA
+- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates undefined
 
 ## GOVERNING LAW
 England and Wales.
@@ -47,7 +47,7 @@ England and Wales.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

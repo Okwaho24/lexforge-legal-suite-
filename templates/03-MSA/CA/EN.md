@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Master Services Agreement
   Jurisdiction: CA | Language: EN
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Master Services Agreement
 **LexForge™ Document ID:** ARC-LXF-03-MSA | **Jurisdiction:** CA | **Language:** EN
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -29,7 +29,7 @@ Provider shall perform services described in each Statement of Work ("SOW") inco
 Fees per SOW, denominated in USD. Payment due {{PAYMENT_TERMS|30 days}}. Late interest: {{LATE_RATE|1.5%}}/month.
 
 ## 3. INTELLECTUAL PROPERTY
-Provider retains all pre-existing IP. Work product ownership per SOW. AcerbE™ fingerprinted deliverables subject to hard gate: tampering violates Copyright Act (R.S.C. 1985, c. C-42) s. 41.1.
+Provider retains all pre-existing IP. Work product ownership per SOW. AcerbE™ fingerprinted deliverables subject to hard gate: tampering violates undefined.
 
 ## 4. CONFIDENTIALITY
 Mutual NDA. Each Party protects the other's Confidential Information. Survives 3 years post-termination; trade secrets indefinitely.
@@ -38,7 +38,7 @@ Mutual NDA. Each Party protects the other's Confidential Information. Survives 3
 Continues until all SOWs complete or terminated for cause (30-day cure). Convenience termination: 30 days' notice + payment for work completed.
 
 ## 6. GOVERNING LAW
-Ontario. Arbitration: ADR Institute of Canada (ADRIC) under ADRIC National Arbitration Rules.
+Ontario, Canada. Arbitration: ADR Institute of Canada (ADRIC) under ADRIC Arbitration Rules.
 
 ## SIGNATURES
 **PROVIDER:** Sig: ___ | Name: {{PROVIDER_SIGNATORY}} | Title: {{PROVIDER_TITLE}} | Date: ___
@@ -52,7 +52,7 @@ Ontario. Arbitration: ADR Institute of Canada (ADRIC) under ADRIC National Arbit
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

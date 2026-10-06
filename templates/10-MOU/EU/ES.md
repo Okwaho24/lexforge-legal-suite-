@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Memorandum of Understanding
   Jurisdiction: EU | Language: ES
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Memorandum of Understanding
 **LexForge™ Document ID:** ARC-LXF-10-MOU | **Jurisdiction:** EU | **Language:** ES
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -31,10 +31,10 @@ Except for Sections marked BINDING, this MOU is non-binding and does not create 
 ## BINDING PROVISIONS
 - Confidentiality: Each Party protects the other's Confidential Information for {{CONF_TERM|2 years}}
 - No Partnership: Nothing herein creates a partnership, joint venture, or agency
-- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates Directive 2001/29/EC Art. 6 (InfoSoc Directive)
+- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates undefined
 
 ## GOVERNING LAW
-Ireland (EU Member State).
+Republic of Ireland (EU member state).
 
 **PARTY A:** Sig: ___ | Name: {{PARTY_A_SIGNATORY}} | Date: ___
 **PARTY B:** Sig: ___ | Name: {{PARTY_B_SIGNATORY}} | Date: ___
@@ -47,7 +47,7 @@ Ireland (EU Member State).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

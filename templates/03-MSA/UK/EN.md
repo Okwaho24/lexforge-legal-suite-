@@ -29,7 +29,7 @@ Provider shall perform services described in each Statement of Work ("SOW") inco
 Fees per SOW, denominated in USD. Payment due {{PAYMENT_TERMS|30 days}}. Late interest: {{LATE_RATE|1.5%}}/month.
 
 ## 3. INTELLECTUAL PROPERTY
-Provider retains all pre-existing IP. Work product ownership per SOW. AcerbE™ fingerprinted deliverables subject to hard gate: tampering violates Copyright, Designs and Patents Act 1988 s. 296ZA.
+Provider retains all pre-existing IP. Work product ownership per SOW. AcerbE™ fingerprinted deliverables subject to hard gate: tampering violates undefined.
 
 ## 4. CONFIDENTIALITY
 Mutual NDA. Each Party protects the other's Confidential Information. Survives 3 years post-termination; trade secrets indefinitely.
@@ -52,7 +52,7 @@ England and Wales. Arbitration: London Court of International Arbitration (LCIA)
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

@@ -23,7 +23,7 @@
 ---
 
 ## 1. INDEPENDENT CONTRACTOR STATUS
-Contractor is an independent contractor. No employment, partnership, or agency relationship is created. Contractor is responsible for own taxes (HMRC Self Assessment / IR35 considerations issued where applicable).
+Contractor is an independent contractor. No employment, partnership, or agency relationship is created. Contractor is responsible for own taxes (Self-assessment / VAT invoice issued where applicable).
 
 ## 2. SERVICES
 Contractor shall perform services per each Statement of Work. Services performed in a professional manner.
@@ -32,7 +32,7 @@ Contractor shall perform services per each Statement of Work. Services performed
 Fees per SOW in USD. Payment due {{PAYMENT_TERMS|30 days}}. No benefits, workers' compensation, or employer contributions.
 
 ## 4. INTELLECTUAL PROPERTY
-Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018.
+Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates undefined and undefined.
 
 ## 5. CONFIDENTIALITY
 Contractor holds Client's Confidential Information in strict confidence. Survives 3 years.
@@ -52,7 +52,7 @@ England and Wales. Disputes: London Court of International Arbitration (LCIA) un
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

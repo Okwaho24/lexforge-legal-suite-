@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Non-Disclosure Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Non-Disclosure Agreement
 **LexForge™ Document ID:** ARC-LXF-01-NDA | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -31,7 +31,7 @@ Receiving Party shall: (a) hold in strict confidence; (b) use only for {{PURPOSE
 {{NDA_TERM|3 years}} from Effective Date. Trade secrets protected indefinitely.
 
 ## 4. GOVERNING LAW
-Delaware. Disputes: American Arbitration Association (AAA).
+Delaware, United States. Disputes: American Arbitration Association (AAA).
 
 ## SIGNATURES
 **DISCLOSING PARTY:** Sig: ___ | Name: {{DISCLOSING_SIGNATORY}} | Date: ___
@@ -45,7 +45,7 @@ Delaware. Disputes: American Arbitration Association (AAA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

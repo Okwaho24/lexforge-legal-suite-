@@ -26,7 +26,7 @@
 Investor invests USD {{INVESTMENT_AMOUNT}} in exchange for {{SECURITY_TYPE}} representing {{OWNERSHIP_PERCENTAGE}}% of Company on a fully-diluted basis.
 
 ## 2. REPRESENTATIONS — INVESTOR
-Investor represents: (a) accredited investor status per FCA Conduct of Business Sourcebook (COBS) / Financial Promotion Order; (b) investment for own account; (c) understands restrictions on transfer.
+Investor represents: (a) accredited investor status per FCA High Net Worth Individual / Sophisticated Investor; (b) investment for own account; (c) understands restrictions on transfer.
 
 ## 3. USE OF PROCEEDS
 {{USE_OF_PROCEEDS_DESCRIPTION}}.
@@ -38,7 +38,7 @@ Investor receives {{LIQUIDATION_MULTIPLE|1x}} liquidation preference before comm
 Offered under Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. No registration required.
 
 ## 5.10. ACERBE™
-AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018.
+AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
 England and Wales. Arbitration: London Court of International Arbitration (LCIA).
@@ -54,7 +54,7 @@ England and Wales. Arbitration: London Court of International Arbitration (LCIA)
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

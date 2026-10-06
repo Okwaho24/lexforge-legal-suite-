@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : IP Assignment Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # IP Assignment Agreement
 **LexForge™ Document ID:** ARC-LXF-11-IP | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -28,19 +28,19 @@ Assignor irrevocably assigns to Assignee all right, title, and interest in: {{IP
 USD {{CONSIDERATION_AMOUNT}} paid in full, receipt acknowledged.
 
 ## 3. WORK FOR HIRE
-To the extent permitted by Ontario law, all Work Product constitutes a work made for hire.
+To the extent permitted by Ontario, Canada law, all Work Product constitutes a work made for hire.
 
 ## 4. MORAL RIGHTS WAIVER
 Assignor waives all moral rights to the fullest extent permitted by applicable law.
 
 ## 5. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: Copyright Act (R.S.C. 1985, c. C-42) s. 41.1.
+All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: undefined.
 
 ## 6. FURTHER ASSURANCES
 Assignor shall execute additional documents as needed to perfect Assignee's ownership.
 
 ## 7. GOVERNING LAW
-Ontario. Disputes: ADR Institute of Canada (ADRIC).
+Ontario, Canada. Disputes: ADR Institute of Canada (ADRIC).
 
 **ASSIGNOR:** Sig: ___ | Name: {{ASSIGNOR_SIGNATORY}} | Date: ___
 **ASSIGNEE:** Sig: ___ | Name: {{ASSIGNEE_SIGNATORY}} | Date: ___
@@ -53,7 +53,7 @@ Ontario. Disputes: ADR Institute of Canada (ADRIC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

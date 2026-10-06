@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Privacy Policy
   Jurisdiction: EU | Language: ES
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Privacy Policy
 **LexForge™ Document ID:** ARC-LXF-07-PP | **Jurisdiction:** EU | **Language:** ES
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -21,7 +21,7 @@
 ---
 
 ## 1. INTRODUCTION
-This Privacy Policy describes how we collect, use, and protect personal information in compliance with General Data Protection Regulation (EU) 2016/679 (GDPR).
+This Privacy Policy describes how we collect, use, and protect personal information in compliance with GDPR (EU) 2016/679.
 
 **AcerbE™ Notice:** Our platform employs AcerbE™ digital fingerprinting on all software and digital assets. Fingerprint verification events may be logged as described herein.
 
@@ -36,17 +36,17 @@ This Privacy Policy describes how we collect, use, and protect personal informat
 - Provide and operate the Service
 - Process transactions
 - Verify AcerbE™ fingerprint integrity
-- Comply with General Data Protection Regulation (EU) 2016/679 (GDPR)
+- Comply with GDPR (EU) 2016/679
 - Enforce our Terms of Service
 
 ## 4. DATA TRANSFERS
-Data may be transferred within the EEA or under adequate safeguards (SCCs).
+Data may be transferred within the EEA or under approved transfer mechanisms (SCCs).
 
 ## 5. DATA BREACH NOTIFICATION
 We will notify you of a data breach affecting your personal information within 72 hours (GDPR Art. 33).
 
 ## 6. YOUR RIGHTS
-You have rights under General Data Protection Regulation (EU) 2016/679 (GDPR) including access, correction, deletion, and portability. Contact: {{PRIVACY_CONTACT_EMAIL}}
+You have rights under GDPR (EU) 2016/679 including access, correction, deletion, and portability. Contact: {{PRIVACY_CONTACT_EMAIL}}
 
 ## 7. CONTACT
 **Privacy Officer:** {{PRIVACY_OFFICER_NAME}} | **Email:** {{PRIVACY_CONTACT_EMAIL}}
@@ -59,7 +59,7 @@ You have rights under General Data Protection Regulation (EU) 2016/679 (GDPR) in
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

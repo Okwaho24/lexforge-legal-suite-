@@ -27,7 +27,7 @@ You are granted a limited, non-exclusive, non-transferable license to use {{PROD
 You may NOT: (a) copy, modify, or create derivative works; (b) reverse engineer or decompile; (c) redistribute, sublicense, or resell; (d) remove or tamper with AcerbE™ fingerprints; (e) use for unlawful purposes.
 
 ## ACERBE™ FINGERPRINT
-This product carries an embedded AcerbE™ cryptographic fingerprint. Removal or tampering: (a) terminates this license immediately; (b) voids all warranties; (c) may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018.
+This product carries an embedded AcerbE™ cryptographic fingerprint. Removal or tampering: (a) terminates this license immediately; (b) voids all warranties; (c) may violate undefined and undefined.
 
 ## WARRANTY
 Product warrants material conformance to documentation for {{WARRANTY_PERIOD|90 days}} provided AcerbE™ fingerprint is intact. Implied warranties disclaimed to fullest extent permitted by England and Wales law.
@@ -45,7 +45,7 @@ BY INSTALLING OR USING THIS PRODUCT, YOU ACCEPT THIS EULA.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Data Processing Agreement
   Jurisdiction: EU | Language: FR
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Data Processing Agreement
 **LexForge™ Document ID:** ARC-LXF-14-DPA | **Jurisdiction:** EU | **Language:** FR
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -25,7 +25,7 @@
 Processor processes personal data on behalf of Controller as described in Annex 1.
 
 ## 2. PROCESSOR OBLIGATIONS
-Processor shall: (a) process data only on Controller's documented instructions; (b) implement appropriate technical and organizational security measures; (c) not engage sub-processors without prior written consent; (d) assist Controller in fulfilling data subject rights under General Data Protection Regulation (EU) 2016/679 (GDPR).
+Processor shall: (a) process data only on Controller's documented instructions; (b) implement appropriate technical and organizational security measures; (c) not engage sub-processors without prior written consent; (d) assist Controller in fulfilling data subject rights under GDPR (EU) 2016/679.
 
 ## 3. SUB-PROCESSORS
 Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of changes.
@@ -34,10 +34,10 @@ Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of
 Processor notifies Controller within 72 hours (GDPR Art. 33) of becoming aware of a personal data breach.
 
 ## 5. ACERBE™
-AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: Directive 2001/29/EC Art. 6 (InfoSoc Directive).
+AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: undefined.
 
 ## 6. GOVERNING LAW
-Ireland (EU Member State). This DPA is governed by General Data Protection Regulation (EU) 2016/679 (GDPR).
+Republic of Ireland (EU member state). This DPA is governed by GDPR (EU) 2016/679.
 
 **CONTROLLER:** Sig: ___ | Name: {{CONTROLLER_SIGNATORY}} | Date: ___
 **PROCESSOR:** Sig: ___ | Name: {{PROCESSOR_SIGNATORY}} | Date: ___
@@ -50,7 +50,7 @@ Ireland (EU Member State). This DPA is governed by General Data Protection Regul
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

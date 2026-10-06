@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Investment Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Investment Agreement
 **LexForge™ Document ID:** ARC-LXF-19-INV | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -26,7 +26,7 @@
 Investor invests USD {{INVESTMENT_AMOUNT}} in exchange for {{SECURITY_TYPE}} representing {{OWNERSHIP_PERCENTAGE}}% of Company on a fully-diluted basis.
 
 ## 2. REPRESENTATIONS — INVESTOR
-Investor represents: (a) accredited investor status per NI 45-106 (National Instrument 45-106 Prospectus Exemptions); (b) investment for own account; (c) understands restrictions on transfer.
+Investor represents: (a) accredited investor status per National Instrument 45-106; (b) investment for own account; (c) understands restrictions on transfer.
 
 ## 3. USE OF PROCEEDS
 {{USE_OF_PROCEEDS_DESCRIPTION}}.
@@ -35,13 +35,13 @@ Investor represents: (a) accredited investor status per NI 45-106 (National Inst
 Investor receives {{LIQUIDATION_MULTIPLE|1x}} liquidation preference before common distribution.
 
 ## 5. SECURITIES EXEMPTION
-Offered under accredited investor exemption under NI 45-106 s. 2.3. No registration required.
+Offered under NI 45-106 Accredited Investor Exemption. No registration required.
 
 ## 5.10. ACERBE™
-AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law.
+AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
-Ontario. Arbitration: ADR Institute of Canada (ADRIC).
+Ontario, Canada. Arbitration: ADR Institute of Canada (ADRIC).
 
 **COMPANY:** Sig: ___ | Name: {{COMPANY_SIGNATORY}} | Title: {{COMPANY_TITLE}} | Date: ___
 **INVESTOR:** Sig: ___ | Name: {{INVESTOR_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Ontario. Arbitration: ADR Institute of Canada (ADRIC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

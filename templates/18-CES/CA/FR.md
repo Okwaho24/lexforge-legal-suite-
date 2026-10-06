@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Consulting Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Consulting Agreement
 **LexForge™ Document ID:** ARC-LXF-18-CES | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ## 1. INDEPENDENT CONTRACTOR
-Consultant is an independent contractor. T4A (Statement of Pension, Retirement, Annuity, and Other Income) issued where applicable. No employment relationship.
+Consultant is an independent contractor. T4A issued where applicable. No employment relationship.
 
 ## 2. SERVICES
 Per SOW. Professional standard of care.
@@ -38,10 +38,10 @@ All deliverables are work-for-hire owned by Client upon full payment. Consultant
 Consultant holds all Client information in strict confidence. Survives {{CONF_TERM|3 years}}.
 
 ## 5.6. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law.
+All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
-Ontario. Disputes: ADR Institute of Canada (ADRIC).
+Ontario, Canada. Disputes: ADR Institute of Canada (ADRIC).
 
 **CLIENT:** Sig: ___ | Name: {{CLIENT_SIGNATORY}} | Date: ___
 **CONSULTANT:** Sig: ___ | Name: {{CONSULTANT_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Ontario. Disputes: ADR Institute of Canada (ADRIC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

@@ -23,7 +23,7 @@
 ---
 
 ## 1. INDEPENDENT CONTRACTOR
-Consultant is an independent contractor. HMRC Self Assessment / IR35 considerations issued where applicable. No employment relationship.
+Consultant is an independent contractor. Self-assessment / VAT invoice issued where applicable. No employment relationship.
 
 ## 2. SERVICES
 Per SOW. Professional standard of care.
@@ -38,7 +38,7 @@ All deliverables are work-for-hire owned by Client upon full payment. Consultant
 Consultant holds all Client information in strict confidence. Survives {{CONF_TERM|3 years}}.
 
 ## 5.6. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018.
+All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
 England and Wales. Disputes: London Court of International Arbitration (LCIA).
@@ -54,7 +54,7 @@ England and Wales. Disputes: London Court of International Arbitration (LCIA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

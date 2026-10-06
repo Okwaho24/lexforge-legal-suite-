@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Professional Services Agreement
   Jurisdiction: EU | Language: EN
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Professional Services Agreement
 **LexForge™ Document ID:** ARC-LXF-13-PSA | **Jurisdiction:** EU | **Language:** EN
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -34,13 +34,13 @@ Upon full payment, Client owns all deliverables. Provider retains general skills
 Provider warrants services will be performed in a professional manner conforming to industry standards.
 
 ## 5. ACERBE™
-All digital deliverables carry AcerbE™ cryptographic fingerprint. Tampering voids warranties and may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive).
+All digital deliverables carry AcerbE™ cryptographic fingerprint. Tampering voids warranties and may violate undefined.
 
 ## 6. LIMITATION OF LIABILITY
 Provider's liability capped at fees paid in prior 3 months.
 
 ## 7. GOVERNING LAW
-Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
+Republic of Ireland (EU member state). Disputes: Court of Arbitration of the International Chamber of Commerce (ICC).
 
 **CLIENT:** Sig: ___ | Name: {{CLIENT_SIGNATORY}} | Date: ___
 **PROVIDER:** Sig: ___ | Name: {{PROVIDER_SIGNATORY}} | Date: ___
@@ -53,7 +53,7 @@ Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

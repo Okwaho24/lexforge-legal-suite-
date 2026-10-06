@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Warranty Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Warranty Agreement
 **LexForge™ Document ID:** ARC-LXF-15-WA | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -29,13 +29,13 @@ Warrantor warrants that {{PRODUCT_SERVICE_NAME}} will conform materially to its 
 Any defect, breakage, or non-conformance: return to point of sale for immediate replacement. No questions asked. This warranty is valid only while the AcerbE™ fingerprint remains intact with zero tampering marks.
 
 ## 3. ACERBE™ CONDITION
-This warranty is void if the AcerbE™ cryptographic fingerprint has been removed, altered, or shows any tampering markers. Tampering may additionally violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1.
+This warranty is void if the AcerbE™ cryptographic fingerprint has been removed, altered, or shows any tampering markers. Tampering may additionally violate undefined.
 
 ## 4. EXCLUSIONS
 Warranty does not cover: (a) misuse or unauthorized modification; (b) AcerbE™ fingerprint tampering; (c) damage from causes outside Warrantor's control.
 
 ## 5. GOVERNING LAW
-Ontario.
+Ontario, Canada.
 
 
 ---
@@ -45,7 +45,7 @@ Ontario.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

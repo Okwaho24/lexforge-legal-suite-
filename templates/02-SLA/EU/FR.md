@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Service Level Agreement
   Jurisdiction: EU | Language: FR
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Service Level Agreement
 **LexForge™ Document ID:** ARC-LXF-02-SLA | **Jurisdiction:** EU | **Language:** FR
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -36,7 +36,7 @@ Service credits of {{CREDIT_RATE|10%}} of monthly fees per {{CREDIT_THRESHOLD|0.
 AcerbE™ fingerprint integrity is a prerequisite for all warranty and credit claims under this SLA.
 
 ## 5. GOVERNING LAW
-Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
+Republic of Ireland (EU member state). Disputes: Court of Arbitration of the International Chamber of Commerce (ICC).
 
 
 ---
@@ -46,7 +46,7 @@ Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

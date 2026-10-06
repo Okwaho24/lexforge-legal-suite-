@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Non-Disclosure Agreement
   Jurisdiction: EU | Language: ES
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Non-Disclosure Agreement
 **LexForge™ Document ID:** ARC-LXF-01-NDA | **Jurisdiction:** EU | **Language:** ES
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -31,7 +31,7 @@ Receiving Party shall: (a) hold in strict confidence; (b) use only for {{PURPOSE
 {{NDA_TERM|3 years}} from Effective Date. Trade secrets protected indefinitely.
 
 ## 4. GOVERNING LAW
-Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
+Republic of Ireland (EU member state). Disputes: Court of Arbitration of the International Chamber of Commerce (ICC).
 
 ## SIGNATURES
 **DISCLOSING PARTY:** Sig: ___ | Name: {{DISCLOSING_SIGNATORY}} | Date: ___
@@ -45,7 +45,7 @@ Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

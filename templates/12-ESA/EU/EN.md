@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Employment Services Agreement
   Jurisdiction: EU | Language: EN
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Employment Services Agreement
 **LexForge™ Document ID:** ARC-LXF-12-ESA | **Jurisdiction:** EU | **Language:** EN
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -29,7 +29,7 @@ Employee is hired as {{JOB_TITLE}}. Duties per Schedule A.
 Base salary: USD {{BASE_SALARY}} per {{PAY_PERIOD|year}}. Benefits: {{BENEFITS_DESCRIPTION}}.
 
 ## 3. AT-WILL EMPLOYMENT
-Employment is at-will and may be terminated by either party at any time with {{NOTICE_PERIOD|2 weeks}} notice, subject to Ireland (EU Member State) law.
+Employment is at-will and may be terminated by either party at any time with {{NOTICE_PERIOD|2 weeks}} notice, subject to Republic of Ireland (EU member state) law.
 
 ## 4. INTELLECTUAL PROPERTY
 All work product created during employment is owned by Employer. Employee assigns all IP rights herein.
@@ -38,10 +38,10 @@ All work product created during employment is owned by Employer. Employee assign
 Employee shall not disclose Employer's Confidential Information during or after employment. Survives {{CONF_SURVIVAL|3 years}}.
 
 ## 6. ACERBE™
-Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive).
+Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate undefined.
 
 ## 7. GOVERNING LAW
-Ireland (EU Member State).
+Republic of Ireland (EU member state).
 
 **EMPLOYER:** Sig: ___ | Name: {{EMPLOYER_SIGNATORY}} | Date: ___
 **EMPLOYEE:** Sig: ___ | Name: {{EMPLOYEE_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Ireland (EU Member State).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Revenue Participation Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Revenue Participation Agreement
 **LexForge™ Document ID:** ARC-LXF-08-RPA | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -32,13 +32,13 @@ Payments due within {{PAYMENT_DUE_DAYS|30}} days after each {{PAYMENT_PERIOD|cal
 Monthly revenue reports within {{REPORT_DAYS|15}} days of period end. Audit rights annually on {{AUDIT_NOTICE|30}} days' notice.
 
 ## 4. ACERBE™
-AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under 17 U.S.C. § 1201 (DMCA).
+AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under undefined.
 
 ## 5. TERM
 {{INITIAL_TERM|3 years}}. Termination for cause: 30-day cure period.
 
 ## 6. GOVERNING LAW
-Delaware. Arbitration: American Arbitration Association (AAA).
+Delaware, United States. Arbitration: American Arbitration Association (AAA).
 
 ## SIGNATURES
 **COMPANY:** Sig: ___ | Name: {{COMPANY_SIGNATORY}} | Date: ___
@@ -52,7 +52,7 @@ Delaware. Arbitration: American Arbitration Association (AAA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

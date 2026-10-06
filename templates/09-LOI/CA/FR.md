@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Letter of Intent
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Letter of Intent
 **LexForge™ Document ID:** ARC-LXF-09-LOI | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -35,7 +35,7 @@ The following are non-binding expressions of intent:
 - Target closing date: {{TARGET_CLOSE}}
 
 ## GOVERNING LAW
-Ontario.
+Ontario, Canada.
 
 **INITIATING PARTY:** Sig: ___ | Name: {{INITIATING_SIGNATORY}} | Date: ___
 **RECEIVING PARTY:** Sig: ___ | Name: {{RECEIVING_SIGNATORY}} | Date: ___
@@ -48,7 +48,7 @@ Ontario.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

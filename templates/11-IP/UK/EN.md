@@ -34,7 +34,7 @@ To the extent permitted by England and Wales law, all Work Product constitutes a
 Assignor waives all moral rights to the fullest extent permitted by applicable law.
 
 ## 5. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: Copyright, Designs and Patents Act 1988 s. 296ZA.
+All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: undefined.
 
 ## 6. FURTHER ASSURANCES
 Assignor shall execute additional documents as needed to perfect Assignee's ownership.
@@ -53,7 +53,7 @@ England and Wales. Disputes: London Court of International Arbitration (LCIA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA and Trade Secrets (Enforcement, etc.) Regulations 2018
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

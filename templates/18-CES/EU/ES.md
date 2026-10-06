@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Consulting Agreement
   Jurisdiction: EU | Language: ES
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Consulting Agreement
 **LexForge™ Document ID:** ARC-LXF-18-CES | **Jurisdiction:** EU | **Language:** ES
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ## 1. INDEPENDENT CONTRACTOR
-Consultant is an independent contractor. applicable VAT invoice requirements issued where applicable. No employment relationship.
+Consultant is an independent contractor. VAT invoice (where applicable) issued where applicable. No employment relationship.
 
 ## 2. SERVICES
 Per SOW. Professional standard of care.
@@ -38,10 +38,10 @@ All deliverables are work-for-hire owned by Client upon full payment. Consultant
 Consultant holds all Client information in strict confidence. Survives {{CONF_TERM|3 years}}.
 
 ## 5.6. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive).
+All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
-Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
+Republic of Ireland (EU member state). Disputes: Court of Arbitration of the International Chamber of Commerce (ICC).
 
 **CLIENT:** Sig: ___ | Name: {{CLIENT_SIGNATORY}} | Date: ___
 **CONSULTANT:** Sig: ___ | Name: {{CONSULTANT_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

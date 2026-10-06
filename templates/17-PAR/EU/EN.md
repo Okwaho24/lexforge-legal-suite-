@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Partnership Agreement
   Jurisdiction: EU | Language: EN
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Partnership Agreement
 **LexForge™ Document ID:** ARC-LXF-17-PAR | **Jurisdiction:** EU | **Language:** EN
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ## 1. FORMATION
-The Parties form a general partnership under Ireland (EU Member State) law for the purpose of {{PARTNERSHIP_PURPOSE}}.
+The Parties form a general partnership under Republic of Ireland (EU member state) law for the purpose of {{PARTNERSHIP_PURPOSE}}.
 
 ## 2. CONTRIBUTIONS
 - Partner A: {{PARTNER_A_CONTRIBUTION}}
@@ -39,10 +39,10 @@ Decisions require {{DECISION_THRESHOLD|majority}} approval. Day-to-day managemen
 Before transferring any partnership interest, offering Partner must first offer to remaining Partners at same price and terms. ROFR period: {{ROFR_PERIOD|30 days}}.
 
 ## 6. ACERBE™
-Tampering with AcerbE™ fingerprints on partnership digital assets constitutes material breach and triggers immediate buyout at book value. Enforcement: Directive 2001/29/EC Art. 6 (InfoSoc Directive).
+Tampering with AcerbE™ fingerprints on partnership digital assets constitutes material breach and triggers immediate buyout at book value. Enforcement: undefined.
 
 ## 7. GOVERNING LAW
-Ireland (EU Member State). Arbitration: ICC International Court of Arbitration.
+Republic of Ireland (EU member state). Arbitration: Court of Arbitration of the International Chamber of Commerce (ICC).
 
 **PARTNER A:** Sig: ___ | Name: {{PARTNER_A_SIGNATORY}} | Date: ___
 **PARTNER B:** Sig: ___ | Name: {{PARTNER_B_SIGNATORY}} | Date: ___
@@ -55,7 +55,7 @@ Ireland (EU Member State). Arbitration: ICC International Court of Arbitration.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

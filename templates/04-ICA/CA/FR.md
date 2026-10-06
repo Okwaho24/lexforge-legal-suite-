@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Independent Contractor Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Independent Contractor Agreement
 **LexForge™ Document ID:** ARC-LXF-04-ICA | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ## 1. INDEPENDENT CONTRACTOR STATUS
-Contractor is an independent contractor. No employment, partnership, or agency relationship is created. Contractor is responsible for own taxes (T4A (Statement of Pension, Retirement, Annuity, and Other Income) issued where applicable).
+Contractor is an independent contractor. No employment, partnership, or agency relationship is created. Contractor is responsible for own taxes (T4A issued where applicable).
 
 ## 2. SERVICES
 Contractor shall perform services per each Statement of Work. Services performed in a professional manner.
@@ -32,13 +32,13 @@ Contractor shall perform services per each Statement of Work. Services performed
 Fees per SOW in USD. Payment due {{PAYMENT_TERMS|30 days}}. No benefits, workers' compensation, or employer contributions.
 
 ## 4. INTELLECTUAL PROPERTY
-Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law.
+Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates undefined and undefined.
 
 ## 5. CONFIDENTIALITY
 Contractor holds Client's Confidential Information in strict confidence. Survives 3 years.
 
 ## 6. GOVERNING LAW
-Ontario. Disputes: ADR Institute of Canada (ADRIC) under ADRIC National Arbitration Rules.
+Ontario, Canada. Disputes: ADR Institute of Canada (ADRIC) under ADRIC Arbitration Rules.
 
 ## SIGNATURES
 **CLIENT:** Sig: ___ | Name: {{CLIENT_SIGNATORY}} | Date: ___
@@ -52,7 +52,7 @@ Ontario. Disputes: ADR Institute of Canada (ADRIC) under ADRIC National Arbitrat
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

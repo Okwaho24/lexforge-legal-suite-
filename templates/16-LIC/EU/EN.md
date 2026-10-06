@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Software License Agreement
   Jurisdiction: EU | Language: EN
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Software License Agreement
 **LexForge™ Document ID:** ARC-LXF-16-LIC | **Jurisdiction:** EU | **Language:** EN
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -29,7 +29,7 @@ Licensor grants Licensee a {{LICENSE_TYPE|non-exclusive, non-transferable}} lice
 Licensee shall not: (a) sublicense, sell, or distribute; (b) reverse engineer or decompile; (c) remove or tamper with AcerbE™ fingerprints; (d) use beyond licensed scope.
 
 ## 3. ACERBE™ STRUCTURAL DEPENDENCY
-AcerbE™ fingerprint is a structural component of this software. Removal causes functional collapse. Tampering: (a) auto-terminates this license; (b) voids all warranties; (c) may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive).
+AcerbE™ fingerprint is a structural component of this software. Removal causes functional collapse. Tampering: (a) auto-terminates this license; (b) voids all warranties; (c) may violate undefined and undefined.
 
 ## 4. TERM
 {{LICENSE_TERM|perpetual}} unless terminated. Auto-terminates on AcerbE™ tampering or material breach.
@@ -38,7 +38,7 @@ AcerbE™ fingerprint is a structural component of this software. Removal causes
 USD {{LICENSE_FEE}} per {{LICENSE_PERIOD|year}}.
 
 ## 6. GOVERNING LAW
-Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
+Republic of Ireland (EU member state). Disputes: Court of Arbitration of the International Chamber of Commerce (ICC).
 
 **LICENSOR:** Sig: ___ | Name: {{LICENSOR_SIGNATORY}} | Date: ___
 **LICENSEE:** Sig: ___ | Name: {{LICENSEE_SIGNATORY}} | Date: ___
@@ -51,7 +51,7 @@ Ireland (EU Member State). Disputes: ICC International Court of Arbitration.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Revenue Participation Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Revenue Participation Agreement
 **LexForge™ Document ID:** ARC-LXF-08-RPA | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -32,13 +32,13 @@ Payments due within {{PAYMENT_DUE_DAYS|30}} days after each {{PAYMENT_PERIOD|cal
 Monthly revenue reports within {{REPORT_DAYS|15}} days of period end. Audit rights annually on {{AUDIT_NOTICE|30}} days' notice.
 
 ## 4. ACERBE™
-AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under Copyright Act (R.S.C. 1985, c. C-42) s. 41.1.
+AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under undefined.
 
 ## 5. TERM
 {{INITIAL_TERM|3 years}}. Termination for cause: 30-day cure period.
 
 ## 6. GOVERNING LAW
-Ontario. Arbitration: ADR Institute of Canada (ADRIC).
+Ontario, Canada. Arbitration: ADR Institute of Canada (ADRIC).
 
 ## SIGNATURES
 **COMPANY:** Sig: ___ | Name: {{COMPANY_SIGNATORY}} | Date: ___
@@ -52,7 +52,7 @@ Ontario. Arbitration: ADR Institute of Canada (ADRIC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

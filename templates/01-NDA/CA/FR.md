@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Non-Disclosure Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Non-Disclosure Agreement
 **LexForge™ Document ID:** ARC-LXF-01-NDA | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -31,7 +31,7 @@ Receiving Party shall: (a) hold in strict confidence; (b) use only for {{PURPOSE
 {{NDA_TERM|3 years}} from Effective Date. Trade secrets protected indefinitely.
 
 ## 4. GOVERNING LAW
-Ontario. Disputes: ADR Institute of Canada (ADRIC).
+Ontario, Canada. Disputes: ADR Institute of Canada (ADRIC).
 
 ## SIGNATURES
 **DISCLOSING PARTY:** Sig: ___ | Name: {{DISCLOSING_SIGNATORY}} | Date: ___
@@ -45,7 +45,7 @@ Ontario. Disputes: ADR Institute of Canada (ADRIC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

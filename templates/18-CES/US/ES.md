@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Consulting Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Consulting Agreement
 **LexForge™ Document ID:** ARC-LXF-18-CES | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ## 1. INDEPENDENT CONTRACTOR
-Consultant is an independent contractor. IRS Form 1099-NEC issued where applicable. No employment relationship.
+Consultant is an independent contractor. 1099-NEC issued where applicable. No employment relationship.
 
 ## 2. SERVICES
 Per SOW. Professional standard of care.
@@ -38,10 +38,10 @@ All deliverables are work-for-hire owned by Client upon full payment. Consultant
 Consultant holds all Client information in strict confidence. Survives {{CONF_TERM|3 years}}.
 
 ## 5.6. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA).
+All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate undefined and undefined.
 
 ## 6. GOVERNING LAW
-Delaware. Disputes: American Arbitration Association (AAA).
+Delaware, United States. Disputes: American Arbitration Association (AAA).
 
 **CLIENT:** Sig: ___ | Name: {{CLIENT_SIGNATORY}} | Date: ___
 **CONSULTANT:** Sig: ___ | Name: {{CONSULTANT_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Delaware. Disputes: American Arbitration Association (AAA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

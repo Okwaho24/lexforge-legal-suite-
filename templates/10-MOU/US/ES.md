@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Memorandum of Understanding
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Memorandum of Understanding
 **LexForge™ Document ID:** ARC-LXF-10-MOU | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -31,10 +31,10 @@ Except for Sections marked BINDING, this MOU is non-binding and does not create 
 ## BINDING PROVISIONS
 - Confidentiality: Each Party protects the other's Confidential Information for {{CONF_TERM|2 years}}
 - No Partnership: Nothing herein creates a partnership, joint venture, or agency
-- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates 17 U.S.C. § 1201 (DMCA)
+- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates undefined
 
 ## GOVERNING LAW
-Delaware.
+Delaware, United States.
 
 **PARTY A:** Sig: ___ | Name: {{PARTY_A_SIGNATORY}} | Date: ___
 **PARTY B:** Sig: ___ | Name: {{PARTY_B_SIGNATORY}} | Date: ___
@@ -47,7 +47,7 @@ Delaware.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

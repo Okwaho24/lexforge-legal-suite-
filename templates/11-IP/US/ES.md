@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : IP Assignment Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # IP Assignment Agreement
 **LexForge™ Document ID:** ARC-LXF-11-IP | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -28,19 +28,19 @@ Assignor irrevocably assigns to Assignee all right, title, and interest in: {{IP
 USD {{CONSIDERATION_AMOUNT}} paid in full, receipt acknowledged.
 
 ## 3. WORK FOR HIRE
-To the extent permitted by Delaware law, all Work Product constitutes a work made for hire.
+To the extent permitted by Delaware, United States law, all Work Product constitutes a work made for hire.
 
 ## 4. MORAL RIGHTS WAIVER
 Assignor waives all moral rights to the fullest extent permitted by applicable law.
 
 ## 5. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: 17 U.S.C. § 1201 (DMCA).
+All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: undefined.
 
 ## 6. FURTHER ASSURANCES
 Assignor shall execute additional documents as needed to perfect Assignee's ownership.
 
 ## 7. GOVERNING LAW
-Delaware. Disputes: American Arbitration Association (AAA).
+Delaware, United States. Disputes: American Arbitration Association (AAA).
 
 **ASSIGNOR:** Sig: ___ | Name: {{ASSIGNOR_SIGNATORY}} | Date: ___
 **ASSIGNEE:** Sig: ___ | Name: {{ASSIGNEE_SIGNATORY}} | Date: ___
@@ -53,7 +53,7 @@ Delaware. Disputes: American Arbitration Association (AAA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

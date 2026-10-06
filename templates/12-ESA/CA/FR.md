@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Employment Services Agreement
   Jurisdiction: CA | Language: FR
-  Governing Law: Ontario
+  Governing Law: Ontario, Canada
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Employment Services Agreement
 **LexForge™ Document ID:** ARC-LXF-12-ESA | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario | **Currency:** USD
+**Governing Law:** Ontario, Canada | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -29,7 +29,7 @@ Employee is hired as {{JOB_TITLE}}. Duties per Schedule A.
 Base salary: USD {{BASE_SALARY}} per {{PAY_PERIOD|year}}. Benefits: {{BENEFITS_DESCRIPTION}}.
 
 ## 3. AT-WILL EMPLOYMENT
-Employment is at-will and may be terminated by either party at any time with {{NOTICE_PERIOD|2 weeks}} notice, subject to Ontario law.
+Employment is at-will and may be terminated by either party at any time with {{NOTICE_PERIOD|2 weeks}} notice, subject to Ontario, Canada law.
 
 ## 4. INTELLECTUAL PROPERTY
 All work product created during employment is owned by Employer. Employee assigns all IP rights herein.
@@ -38,10 +38,10 @@ All work product created during employment is owned by Employer. Employee assign
 Employee shall not disclose Employer's Confidential Information during or after employment. Survives {{CONF_SURVIVAL|3 years}}.
 
 ## 6. ACERBE™
-Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1.
+Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate undefined.
 
 ## 7. GOVERNING LAW
-Ontario.
+Ontario, Canada.
 
 **EMPLOYER:** Sig: ___ | Name: {{EMPLOYER_SIGNATORY}} | Date: ___
 **EMPLOYEE:** Sig: ___ | Name: {{EMPLOYEE_SIGNATORY}} | Date: ___
@@ -54,7 +54,7 @@ Ontario.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 and Uniform Trade Secrets Act (provincial) and common law
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

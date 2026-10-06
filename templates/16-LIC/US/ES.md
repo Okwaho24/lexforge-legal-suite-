@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Software License Agreement
   Jurisdiction: US | Language: ES
-  Governing Law: Delaware
+  Governing Law: Delaware, United States
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Software License Agreement
 **LexForge™ Document ID:** ARC-LXF-16-LIC | **Jurisdiction:** US | **Language:** ES
-**Governing Law:** Delaware | **Currency:** USD
+**Governing Law:** Delaware, United States | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -29,7 +29,7 @@ Licensor grants Licensee a {{LICENSE_TYPE|non-exclusive, non-transferable}} lice
 Licensee shall not: (a) sublicense, sell, or distribute; (b) reverse engineer or decompile; (c) remove or tamper with AcerbE™ fingerprints; (d) use beyond licensed scope.
 
 ## 3. ACERBE™ STRUCTURAL DEPENDENCY
-AcerbE™ fingerprint is a structural component of this software. Removal causes functional collapse. Tampering: (a) auto-terminates this license; (b) voids all warranties; (c) may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA).
+AcerbE™ fingerprint is a structural component of this software. Removal causes functional collapse. Tampering: (a) auto-terminates this license; (b) voids all warranties; (c) may violate undefined and undefined.
 
 ## 4. TERM
 {{LICENSE_TERM|perpetual}} unless terminated. Auto-terminates on AcerbE™ tampering or material breach.
@@ -38,7 +38,7 @@ AcerbE™ fingerprint is a structural component of this software. Removal causes
 USD {{LICENSE_FEE}} per {{LICENSE_PERIOD|year}}.
 
 ## 6. GOVERNING LAW
-Delaware. Disputes: American Arbitration Association (AAA).
+Delaware, United States. Disputes: American Arbitration Association (AAA).
 
 **LICENSOR:** Sig: ___ | Name: {{LICENSOR_SIGNATORY}} | Date: ___
 **LICENSEE:** Sig: ___ | Name: {{LICENSEE_SIGNATORY}} | Date: ___
@@ -51,7 +51,7 @@ Delaware. Disputes: American Arbitration Association (AAA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate 17 U.S.C. § 1201 (DMCA) and 18 U.S.C. § 1836 (DTSA)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

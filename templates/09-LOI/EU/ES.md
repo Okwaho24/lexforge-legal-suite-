@@ -2,7 +2,7 @@
   LexForge™ | ARC-LXF-001
   Document : Letter of Intent
   Jurisdiction: EU | Language: ES
-  Governing Law: Ireland (EU Member State)
+  Governing Law: Republic of Ireland (EU member state)
   Currency: USD
   Generated: 2026-10-06
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
@@ -11,7 +11,7 @@
 
 # Letter of Intent
 **LexForge™ Document ID:** ARC-LXF-09-LOI | **Jurisdiction:** EU | **Language:** ES
-**Governing Law:** Ireland (EU Member State) | **Currency:** USD
+**Governing Law:** Republic of Ireland (EU member state) | **Currency:** USD
 **Effective Date:** {{EFFECTIVE_DATE}}
 
 ---
@@ -35,7 +35,7 @@ The following are non-binding expressions of intent:
 - Target closing date: {{TARGET_CLOSE}}
 
 ## GOVERNING LAW
-Ireland (EU Member State).
+Republic of Ireland (EU member state).
 
 **INITIATING PARTY:** Sig: ___ | Name: {{INITIATING_SIGNATORY}} | Date: ___
 **RECEIVING PARTY:** Sig: ___ | Name: {{RECEIVING_SIGNATORY}} | Date: ___
@@ -48,7 +48,7 @@ Ireland (EU Member State).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive) and Directive (EU) 2016/943 (Trade Secrets Directive)
+- Tampering may violate undefined and undefined
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
