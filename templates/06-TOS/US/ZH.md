@@ -4,7 +4,7 @@
   Jurisdiction: US | Language: ZH
   Governing Law: Delaware, United States
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -33,7 +33,7 @@ You are responsible for maintaining the security of your account credentials. No
 You shall not: (a) violate applicable law; (b) infringe third-party rights; (c) tamper with AcerbE™ fingerprints embedded in Service assets; (d) attempt to reverse engineer the Service; (e) use the Service for spam or malicious activity.
 
 ## 5. INTELLECTUAL PROPERTY
-All Service content is owned by Operator or its licensors. AcerbE™ fingerprinted assets are protected under undefined and undefined. No license is granted beyond what is expressly stated.
+All Service content is owned by Operator or its licensors. AcerbE™ fingerprinted assets are protected under 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA. No license is granted beyond what is expressly stated.
 
 ## 6. PRIVACY
 Your use of the Service is subject to our Privacy Policy, which complies with CCPA/CPRA (California) and applicable U.S. state privacy laws.
@@ -58,7 +58,7 @@ We may update these Terms with notice. Continued use constitutes acceptance.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

@@ -4,7 +4,7 @@
   Jurisdiction: US | Language: AR
   Governing Law: Delaware, United States
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -38,7 +38,7 @@ All deliverables are work-for-hire owned by Client upon full payment. Consultant
 Consultant holds all Client information in strict confidence. Survives {{CONF_TERM|3 years}}.
 
 ## 5.6. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate undefined and undefined.
+All digital deliverables carry AcerbE™ fingerprint. Tampering voids delivery acceptance and may violate 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA.
 
 ## 6. GOVERNING LAW
 Delaware, United States. Disputes: American Arbitration Association (AAA).
@@ -54,7 +54,7 @@ Delaware, United States. Disputes: American Arbitration Association (AAA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

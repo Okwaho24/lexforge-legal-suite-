@@ -4,7 +4,7 @@
   Jurisdiction: US | Language: PT
   Governing Law: Delaware, United States
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -32,7 +32,7 @@ Contractor shall perform services per each Statement of Work. Services performed
 Fees per SOW in USD. Payment due {{PAYMENT_TERMS|30 days}}. No benefits, workers' compensation, or employer contributions.
 
 ## 4. INTELLECTUAL PROPERTY
-Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates undefined and undefined.
+Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA.
 
 ## 5. CONFIDENTIALITY
 Contractor holds Client's Confidential Information in strict confidence. Survives 3 years.
@@ -52,7 +52,7 @@ Delaware, United States. Disputes: American Arbitration Association (AAA) under 
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

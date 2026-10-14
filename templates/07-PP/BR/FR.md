@@ -4,7 +4,7 @@
   Jurisdiction: BR | Language: FR
   Governing Law: São Paulo, Brazil
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -59,7 +59,7 @@ You have rights under Lei Geral de Proteção de Dados (LGPD) — Lei nº 13.709
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais) and Lei nº 9.279/1996 Art. 195 (segredo industrial — Lei de Propriedade Industrial)
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

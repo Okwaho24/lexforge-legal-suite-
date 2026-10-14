@@ -4,7 +4,7 @@
   Jurisdiction: SG | Language: DE
   Governing Law: Singapore
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -32,7 +32,7 @@ Contractor shall perform services per each Statement of Work. Services performed
 Fees per SOW in USD. Payment due {{PAYMENT_TERMS|30 days}}. No benefits, workers' compensation, or employer contributions.
 
 ## 4. INTELLECTUAL PROPERTY
-Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates undefined and undefined.
+Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention) and Common law breach of confidence (Singapore) / Personal Data Protection Act 2012 (PDPA).
 
 ## 5. CONFIDENTIALITY
 Contractor holds Client's Confidential Information in strict confidence. Survives 3 years.
@@ -52,7 +52,7 @@ Singapore. Disputes: Singapore International Arbitration Centre (SIAC) under SIA
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention) and Common law breach of confidence (Singapore) / Personal Data Protection Act 2012 (PDPA)
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

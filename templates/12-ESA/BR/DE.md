@@ -4,7 +4,7 @@
   Jurisdiction: BR | Language: DE
   Governing Law: São Paulo, Brazil
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -38,7 +38,7 @@ All work product created during employment is owned by Employer. Employee assign
 Employee shall not disclose Employer's Confidential Information during or after employment. Survives {{CONF_SURVIVAL|3 years}}.
 
 ## 6. ACERBE™
-Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate undefined.
+Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais).
 
 ## 7. GOVERNING LAW
 São Paulo, Brazil.
@@ -54,7 +54,7 @@ São Paulo, Brazil.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais) and Lei nº 9.279/1996 Art. 195 (segredo industrial — Lei de Propriedade Industrial)
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

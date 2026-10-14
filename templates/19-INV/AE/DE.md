@@ -4,7 +4,7 @@
   Jurisdiction: AE | Language: DE
   Governing Law: Dubai International Financial Centre (DIFC), UAE
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -38,7 +38,7 @@ Investor receives {{LIQUIDATION_MULTIPLE|1x}} liquidation preference before comm
 Offered under DFSA Markets Law exemption / SCA Board Decision No. 3 of 2017. No registration required.
 
 ## 5.10. ACERBE™
-AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate undefined and undefined.
+AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate UAE Federal Law No. 38 of 2021 on Copyrights and Related Rights, Art. 38 (technological protection measures) and UAE Federal Law No. 15 of 1980 on Commercial Agencies / DIFC common law breach of confidence.
 
 ## 6. GOVERNING LAW
 Dubai International Financial Centre (DIFC), UAE. Arbitration: Dubai International Arbitration Centre (DIAC).
@@ -54,7 +54,7 @@ Dubai International Financial Centre (DIFC), UAE. Arbitration: Dubai Internation
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate UAE Federal Law No. 38 of 2021 on Copyrights and Related Rights, Art. 38 (technological protection measures) and UAE Federal Law No. 15 of 1980 on Commercial Agencies / DIFC common law breach of confidence
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

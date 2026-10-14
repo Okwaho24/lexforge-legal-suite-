@@ -4,7 +4,7 @@
   Jurisdiction: CA | Language: PT
   Governing Law: Ontario, Canada
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -34,7 +34,7 @@ To the extent permitted by Ontario, Canada law, all Work Product constitutes a w
 Assignor waives all moral rights to the fullest extent permitted by applicable law.
 
 ## 5. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: undefined.
+All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures).
 
 ## 6. FURTHER ASSURANCES
 Assignor shall execute additional documents as needed to perfect Assignee's ownership.
@@ -53,7 +53,7 @@ Ontario, Canada. Disputes: ADR Institute of Canada (ADRIC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

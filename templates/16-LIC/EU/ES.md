@@ -4,7 +4,7 @@
   Jurisdiction: EU | Language: ES
   Governing Law: Republic of Ireland (EU member state)
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -29,7 +29,7 @@ Licensor grants Licensee a {{LICENSE_TYPE|non-exclusive, non-transferable}} lice
 Licensee shall not: (a) sublicense, sell, or distribute; (b) reverse engineer or decompile; (c) remove or tamper with AcerbE™ fingerprints; (d) use beyond licensed scope.
 
 ## 3. ACERBE™ STRUCTURAL DEPENDENCY
-AcerbE™ fingerprint is a structural component of this software. Removal causes functional collapse. Tampering: (a) auto-terminates this license; (b) voids all warranties; (c) may violate undefined and undefined.
+AcerbE™ fingerprint is a structural component of this software. Removal causes functional collapse. Tampering: (a) auto-terminates this license; (b) voids all warranties; (c) may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive — technological protection measures) and Directive (EU) 2016/943 (Trade Secrets Directive).
 
 ## 4. TERM
 {{LICENSE_TERM|perpetual}} unless terminated. Auto-terminates on AcerbE™ tampering or material breach.
@@ -51,7 +51,7 @@ Republic of Ireland (EU member state). Disputes: Court of Arbitration of the Int
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive — technological protection measures) and Directive (EU) 2016/943 (Trade Secrets Directive)
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

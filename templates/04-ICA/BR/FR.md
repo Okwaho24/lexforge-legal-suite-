@@ -4,7 +4,7 @@
   Jurisdiction: BR | Language: FR
   Governing Law: São Paulo, Brazil
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -32,7 +32,7 @@ Contractor shall perform services per each Statement of Work. Services performed
 Fees per SOW in USD. Payment due {{PAYMENT_TERMS|30 days}}. No benefits, workers' compensation, or employer contributions.
 
 ## 4. INTELLECTUAL PROPERTY
-Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates undefined and undefined.
+Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais) and Lei nº 9.279/1996 Art. 195 (segredo industrial — Lei de Propriedade Industrial).
 
 ## 5. CONFIDENTIALITY
 Contractor holds Client's Confidential Information in strict confidence. Survives 3 years.
@@ -52,7 +52,7 @@ São Paulo, Brazil. Disputes: Brazil-Canada Chamber of Commerce (CCBC) under CCB
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais) and Lei nº 9.279/1996 Art. 195 (segredo industrial — Lei de Propriedade Industrial)
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

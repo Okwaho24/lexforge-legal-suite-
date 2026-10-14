@@ -4,7 +4,7 @@
   Jurisdiction: AE | Language: AR
   Governing Law: Dubai International Financial Centre (DIFC), UAE
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -27,7 +27,7 @@ You are granted a limited, non-exclusive, non-transferable license to use {{PROD
 You may NOT: (a) copy, modify, or create derivative works; (b) reverse engineer or decompile; (c) redistribute, sublicense, or resell; (d) remove or tamper with AcerbE™ fingerprints; (e) use for unlawful purposes.
 
 ## ACERBE™ FINGERPRINT
-This product carries an embedded AcerbE™ cryptographic fingerprint. Removal or tampering: (a) terminates this license immediately; (b) voids all warranties; (c) may violate undefined and undefined.
+This product carries an embedded AcerbE™ cryptographic fingerprint. Removal or tampering: (a) terminates this license immediately; (b) voids all warranties; (c) may violate UAE Federal Law No. 38 of 2021 on Copyrights and Related Rights, Art. 38 (technological protection measures) and UAE Federal Law No. 15 of 1980 on Commercial Agencies / DIFC common law breach of confidence.
 
 ## WARRANTY
 Product warrants material conformance to documentation for {{WARRANTY_PERIOD|90 days}} provided AcerbE™ fingerprint is intact. Implied warranties disclaimed to fullest extent permitted by Dubai International Financial Centre (DIFC), UAE law.
@@ -45,7 +45,7 @@ BY INSTALLING OR USING THIS PRODUCT, YOU ACCEPT THIS EULA.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate UAE Federal Law No. 38 of 2021 on Copyrights and Related Rights, Art. 38 (technological protection measures) and UAE Federal Law No. 15 of 1980 on Commercial Agencies / DIFC common law breach of confidence
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

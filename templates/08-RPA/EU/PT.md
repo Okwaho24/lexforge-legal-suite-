@@ -4,7 +4,7 @@
   Jurisdiction: EU | Language: PT
   Governing Law: Republic of Ireland (EU member state)
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -32,7 +32,7 @@ Payments due within {{PAYMENT_DUE_DAYS|30}} days after each {{PAYMENT_PERIOD|cal
 Monthly revenue reports within {{REPORT_DAYS|15}} days of period end. Audit rights annually on {{AUDIT_NOTICE|30}} days' notice.
 
 ## 4. ACERBE™
-AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under undefined.
+AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under Directive 2001/29/EC Art. 6 (InfoSoc Directive — technological protection measures).
 
 ## 5. TERM
 {{INITIAL_TERM|3 years}}. Termination for cause: 30-day cure period.
@@ -52,7 +52,7 @@ Republic of Ireland (EU member state). Arbitration: Court of Arbitration of the 
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive — technological protection measures) and Directive (EU) 2016/943 (Trade Secrets Directive)
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

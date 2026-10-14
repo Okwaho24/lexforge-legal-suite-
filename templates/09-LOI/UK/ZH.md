@@ -4,7 +4,7 @@
   Jurisdiction: UK | Language: ZH
   Governing Law: England and Wales
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -48,7 +48,7 @@ England and Wales.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA (technological protection measures) and Trade Secrets (Enforcement, etc.) Regulations 2018
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

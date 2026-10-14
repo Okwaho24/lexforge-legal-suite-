@@ -3,7 +3,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { getAcerbeClause } = require('./acerbe_clauses.cjs');
+const { ACERBE_BY_JURISDICTION } = require('./acerbe_clauses.cjs');
 const { JURISDICTION_RULES, JURISDICTION_LANGUAGES, ALL_JURISDICTIONS } = require('./jurisdiction_rules.cjs');
 
 const args = process.argv.slice(2);
@@ -17,9 +17,9 @@ const REPO_ROOT = path.resolve(__dirname, '..');
 const TEMPLATES_DIR = path.join(REPO_ROOT, 'templates');
 
 const DOCS = [
-  { id: '01-NDA', name: 'Non-Disclosure Agreement' },
-  { id: '02-SLA', name: 'Service Level Agreement' },
-  { id: '03-MSA', name: 'Master Services Agreement' },
+  { id: '01-SLA', name: 'Service Level Agreement' },
+  { id: '02-MSA', name: 'Master Service Agreement' },
+  { id: '03-NDA', name: 'Non-Disclosure Agreement' },
   { id: '04-ICA', name: 'Independent Contractor Agreement' },
   { id: '05-EUA', name: 'End User License Agreement' },
   { id: '06-TOS', name: 'Terms of Service' },
@@ -652,7 +652,7 @@ ${rules.governing_law}. Arbitration: ${rules.arbitration_body}.
 }
 
 const BODY_BUILDERS = {
-  '01-NDA': buildNDA, '02-SLA': buildSLA, '03-MSA': buildMSA,
+  '01-SLA': buildSLA, '02-MSA': buildMSA, '03-NDA': buildNDA,
   '04-ICA': buildICA, '05-EUA': buildEUA, '06-TOS': buildTOS,
   '07-PP':  buildPP,  '08-RPA': buildRPA, '09-LOI': buildLOI,
   '10-MOU': buildMOU, '11-IP':  buildIP,  '12-ESA': buildESA,
@@ -667,7 +667,10 @@ for (const jur of jurisdictionsToRun) {
   const rules = JURISDICTION_RULES[jur];
   if (!rules) { console.error(`[ERROR] Unknown jurisdiction: ${jur}`); errors++; continue; }
   const languages = JURISDICTION_LANGUAGES[jur];
-  const acerbe = getAcerbeClause(jur);
+  // Builders read .circumvention / .tradesecrets, so they need the entry OBJECT.
+  // (Passing the rendered clause string made every template say "violates undefined".)
+  const acerbe = ACERBE_BY_JURISDICTION[jur];
+  if (!acerbe) { console.error(`[ERROR] No AcerbE clause for jurisdiction: ${jur}`); errors++; continue; }
 
   for (const doc of DOCS) {
     for (const lang of languages) {

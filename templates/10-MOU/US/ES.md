@@ -4,7 +4,7 @@
   Jurisdiction: US | Language: ES
   Governing Law: Delaware, United States
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -31,7 +31,7 @@ Except for Sections marked BINDING, this MOU is non-binding and does not create 
 ## BINDING PROVISIONS
 - Confidentiality: Each Party protects the other's Confidential Information for {{CONF_TERM|2 years}}
 - No Partnership: Nothing herein creates a partnership, joint venture, or agency
-- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates undefined
+- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA)
 
 ## GOVERNING LAW
 Delaware, United States.
@@ -47,7 +47,7 @@ Delaware, United States.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

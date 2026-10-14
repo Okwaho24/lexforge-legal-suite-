@@ -4,7 +4,7 @@
   Jurisdiction: BR | Language: PT
   Governing Law: São Paulo, Brazil
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -32,7 +32,7 @@ Payments due within {{PAYMENT_DUE_DAYS|30}} days after each {{PAYMENT_PERIOD|cal
 Monthly revenue reports within {{REPORT_DAYS|15}} days of period end. Audit rights annually on {{AUDIT_NOTICE|30}} days' notice.
 
 ## 4. ACERBE™
-AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under undefined.
+AcerbE™ fingerprinted assets central to revenue stream. Tampering constitutes material breach. Enforcement under Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais).
 
 ## 5. TERM
 {{INITIAL_TERM|3 years}}. Termination for cause: 30-day cure period.
@@ -52,7 +52,7 @@ São Paulo, Brazil. Arbitration: Brazil-Canada Chamber of Commerce (CCBC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais) and Lei nº 9.279/1996 Art. 195 (segredo industrial — Lei de Propriedade Industrial)
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

@@ -4,7 +4,7 @@
   Jurisdiction: UK | Language: FR
   Governing Law: England and Wales
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-14
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -34,7 +34,7 @@ Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of
 Processor notifies Controller within 72 hours (UK GDPR Art. 33) of becoming aware of a personal data breach.
 
 ## 5. ACERBE™
-AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: undefined.
+AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: Copyright, Designs and Patents Act 1988 s. 296ZA (technological protection measures).
 
 ## 6. GOVERNING LAW
 England and Wales. This DPA is governed by UK GDPR / Data Protection Act 2018.
@@ -50,7 +50,7 @@ England and Wales. This DPA is governed by UK GDPR / Data Protection Act 2018.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA (technological protection measures) and Trade Secrets (Enforcement, etc.) Regulations 2018
 - Forensic trace is preserved regardless of file modification
 
 > *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*

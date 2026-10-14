@@ -1,18 +1,35 @@
 {
   "name": "lexforge-legal-suite",
-  "version": "2.0.0",
-  "description": "LexForge™ — Automated Legal Document Generation Service",
+  "version": "2.1.0",
+  "description": "LexForge\u2122 \u2014 Automated Multi-Jurisdiction Legal Document Suite | ARC-LXF-001",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "validate": "node scripts/validateTemplates.js"
+    "start": "node --disable-warning=ExperimentalWarning src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --disable-warning=ExperimentalWarning --test \"tests/*.test.js\"",
+    "validate": "node scripts/validateTemplates.js",
+    "test:integration": "node --disable-warning=ExperimentalWarning --test tests/integration.test.js tests/integration.real.test.js",
+    "audit:verify": "node --disable-warning=ExperimentalWarning scripts/verifyAudit.js"
   },
+  "keywords": [
+    "lexforge",
+    "legal",
+    "contracts",
+    "multi-jurisdiction",
+    "archer-chain-analytics"
+  ],
+  "author": "Neil Scott Archer / Archer Chain Analytics | ISC: 102237785",
+  "license": "UNLICENSED",
   "dependencies": {
-    "express": "^4.18.2",
+    "dotenv": "^16.4.0",
+    "express": "^4.19.0",
     "xrpl": "^3.0.0"
   },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
   "engines": {
-    "node": ">=18"
+    "node": ">=22.13.0"
   }
 }
