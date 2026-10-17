@@ -1,0 +1,5 @@
+{
+  "_note": "Which LexForge documents ship with each product sold through RaPaX. 'default' applies to any product_id not listed under 'products'. Operator must approve this set.",
+  "default": ["EUA", "TOS", "PP", "WA"],
+  "products": {}
+}

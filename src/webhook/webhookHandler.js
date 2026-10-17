@@ -3,7 +3,7 @@ import { deliverDocument } from '../delivery/deliveryService.js';
 import { log, logError, EventType } from '../utils/logger.js';
 import { DOCUMENTS, JURISDICTIONS, LANGUAGES } from '../config/index.js';
 
-function verifySignature(rawBody, signature) {
+export function verifySignature(rawBody, signature) {
   const secret = process.env.RAPAX_WEBHOOK_SECRET;
   if (!secret) return false;
   const expected = 'sha256=' + createHmac('sha256', secret).update(rawBody).digest('hex');
