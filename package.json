@@ -1,12 +1,13 @@
 {
   "name": "lexforge-legal-suite",
   "version": "2.0.0",
-  "description": "LexForge™ — Automated Legal Document Generation Service",
+  "description": "LexForge\u2122 \u2014 Automated Legal Document Generation Service",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "validate": "node scripts/validateTemplates.js"
+    "validate": "node scripts/validateTemplates.js",
+    "test": "node --test test/bundle.test.mjs"
   },
   "dependencies": {
     "express": "^4.18.2",

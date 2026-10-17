@@ -1,0 +1,4 @@
+{
+  "_note": "A template ships to customers ONLY if listed here with the SHA-256 of the exact reviewed file. Add entries with: node scripts/markVerified.js --by \"<reviewer>\" <relative template paths>. Editing a template voids its entry.",
+  "verified": {}
+}
