@@ -17,9 +17,9 @@ const REPO_ROOT = path.resolve(__dirname, '..');
 const TEMPLATES_DIR = path.join(REPO_ROOT, 'templates');
 
 const DOCS = [
-  { id: '01-NDA', name: 'Non-Disclosure Agreement' },
-  { id: '02-SLA', name: 'Service Level Agreement' },
-  { id: '03-MSA', name: 'Master Services Agreement' },
+  { id: '01-SLA', name: 'Service Level Agreement' },
+  { id: '02-MSA', name: 'Master Services Agreement' },
+  { id: '03-NDA', name: 'Non-Disclosure Agreement' },
   { id: '04-ICA', name: 'Independent Contractor Agreement' },
   { id: '05-EUA', name: 'End User License Agreement' },
   { id: '06-TOS', name: 'Terms of Service' },
@@ -652,7 +652,7 @@ ${rules.governing_law}. Arbitration: ${rules.arbitration_body}.
 }
 
 const BODY_BUILDERS = {
-  '01-NDA': buildNDA, '02-SLA': buildSLA, '03-MSA': buildMSA,
+  '01-SLA': buildSLA, '02-MSA': buildMSA, '03-NDA': buildNDA,
   '04-ICA': buildICA, '05-EUA': buildEUA, '06-TOS': buildTOS,
   '07-PP':  buildPP,  '08-RPA': buildRPA, '09-LOI': buildLOI,
   '10-MOU': buildMOU, '11-IP':  buildIP,  '12-ESA': buildESA,
