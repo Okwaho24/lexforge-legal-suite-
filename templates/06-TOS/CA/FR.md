@@ -1,70 +1,70 @@
 <!--
   LexForge™ | ARC-LXF-001
-  Document : Terms of Service
-  Jurisdiction: CA | Language: FR
-  Governing Law: Ontario, Canada
-  Currency: USD
-  Generated: 2026-10-20
+  Document : Conditions d'utilisation
+  Juridiction : CA | Langue : fr-CA
+  Droit applicable : Ontario (Canada)
+  Devise : USD
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
+  Version française rédigée par IA — révision requise (voir docs/FR_CA_REVIEW.md)
 -->
 
-# Terms of Service
-**LexForge™ Document ID:** ARC-LXF-06-TOS | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario, Canada | **Currency:** USD
-**Effective Date:** {{EFFECTIVE_DATE}}
+# Conditions d'utilisation
+**Identifiant LexForge™ :** ARC-LXF-06-TOS | **Juridiction :** CA | **Langue :** fr-CA
+**Droit applicable :** Ontario (Canada) | **Devise :** USD
+**Date d'entrée en vigueur :** {{EFFECTIVE_DATE}}
 
 ---
 
-**Service:** {{SERVICE_NAME}} | **Operator:** {{OPERATOR_LEGAL_NAME}} | **Effective Date:** {{EFFECTIVE_DATE}}
+**Service :** {{SERVICE_NAME}} | **Exploitant :** {{OPERATOR_LEGAL_NAME}} | **Date d'entrée en vigueur :** {{EFFECTIVE_DATE}}
 
 ---
 
-## 1. ACCEPTANCE
-By accessing or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+## 1. ACCEPTATION
+En accédant au Service ou en l'utilisant, vous acceptez les présentes conditions. Si vous les refusez, n'utilisez pas le Service.
 
-## 2. ELIGIBILITY
-You must be at least 18 years of age and capable of forming a binding contract under Ontario, Canada law.
+## 2. ADMISSIBILITÉ
+Vous devez avoir au moins 18 ans et avoir la capacité de conclure un contrat qui vous lie en vertu du droit applicable (Ontario (Canada)).
 
-## 3. ACCOUNT
-You are responsible for maintaining the security of your account credentials. Notify us immediately of unauthorized access.
+## 3. COMPTE
+Vous êtes responsable de la sécurité des identifiants de votre compte. Avisez-nous immédiatement de tout accès non autorisé.
 
-## 4. ACCEPTABLE USE
-You shall not: (a) violate applicable law; (b) infringe third-party rights; (c) tamper with AcerbE™ fingerprints embedded in Service assets; (d) attempt to reverse engineer the Service; (e) use the Service for spam or malicious activity.
+## 4. UTILISATION ACCEPTABLE
+Il vous est interdit : a) de contrevenir à la loi applicable; b) de porter atteinte aux droits de tiers; c) d'altérer les empreintes AcerbE™ intégrées aux actifs du Service; d) de tenter de faire de la rétro-ingénierie du Service; e) d'utiliser le Service pour des pourriels ou des activités malveillantes.
 
-## 5. INTELLECTUAL PROPERTY
-All Service content is owned by Operator or its licensors. AcerbE™ fingerprinted assets are protected under Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence. No license is granted beyond what is expressly stated.
+## 5. PROPRIÉTÉ INTELLECTUELLE
+Tout le contenu du Service appartient à l'Exploitant ou à ses concédants. Les actifs dotés d'une empreinte AcerbE™ sont protégés par la Loi sur le droit d'auteur (L.R.C. 1985, ch. C-42), art. 41.1 (mesures techniques de protection) et par la législation provinciale applicable en matière de secrets commerciaux et le droit commun de l'abus de confiance. Aucune licence n'est accordée au-delà de ce qui est expressément prévu.
 
-## 6. PRIVACY
-Your use of the Service is subject to our Privacy Policy, which complies with PIPEDA / Bill C-27 (CPPA).
+## 6. VIE PRIVÉE
+Votre utilisation du Service est assujettie à notre politique de confidentialité, qui respecte LPRPDE / projet de loi C-27 (LPVPC).
 
-## 7. DISCLAIMERS
-SERVICE PROVIDED "AS IS." OPERATOR DISCLAIMS ALL IMPLIED WARRANTIES TO THE FULLEST EXTENT PERMITTED BY ONTARIO, CANADA LAW.
+## 7. EXCLUSIONS DE GARANTIE
+LE SERVICE EST FOURNI « TEL QUEL ». L'EXPLOITANT EXCLUT TOUTE GARANTIE IMPLICITE DANS LA PLEINE MESURE PERMISE PAR LE DROIT APPLICABLE (ONTARIO (CANADA)).
 
-## 8. LIMITATION OF LIABILITY
-OPERATOR'S LIABILITY IS LIMITED TO THE GREATER OF FEES PAID IN THE PRIOR 12 MONTHS OR $100 USD.
+## 8. LIMITATION DE RESPONSABILITÉ
+LA RESPONSABILITÉ DE L'EXPLOITANT EST LIMITÉE AU PLUS ÉLEVÉ DES MONTANTS SUIVANTS : LES FRAIS PAYÉS AU COURS DES 12 DERNIERS MOIS OU 100 $ USD.
 
-## 9. GOVERNING LAW
-Ontario, Canada. Disputes: ADR Institute of Canada (ADRIC) under ADRIC Arbitration Rules.
+## 9. DROIT APPLICABLE
+Ontario (Canada). Différends : Institut d'arbitrage et de médiation du Canada (IAMC) selon les Règles d'arbitrage de l'IAMC.
 
-## 10. CHANGES
-We may update these Terms with notice. Continued use constitutes acceptance.
+## 10. MODIFICATIONS
+Nous pouvons mettre à jour les présentes conditions moyennant un avis. La poursuite de l'utilisation vaut acceptation.
 
-
----
-
-## ACERBE™ FINGERPRINT NOTICE
-
-This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
-
-- Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence
-- Forensic trace is preserved regardless of file modification
-
-> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 
-*Generated by LexForge™ | ARC-LXF-001 | © 2026 Neil Scott Archer / Archer Chain Analytics | ISC: 102237785*
+## AVIS SUR L'EMPREINTE ACERBE™
+
+Le présent document et tous les livrables numériques associés portent une empreinte cryptographique AcerbE™ intégrée.
+
+- Le retrait ou l'altération **met immédiatement fin** à la présente entente et à toutes les garanties
+- L'altération peut contrevenir à la Loi sur le droit d'auteur (L.R.C. 1985, ch. C-42), art. 41.1 (mesures techniques de protection) et à la législation provinciale applicable en matière de secrets commerciaux et le droit commun de l'abus de confiance
+- La trace médicolégale est conservée malgré toute modification du fichier
+
+> *AcerbE™ est un produit d'Archer Chain Analytics | ISC 102237785*
+
+---
+
+*Généré par LexForge™ | ARC-LXF-001 | © 2026 Neil Scott Archer / Archer Chain Analytics | ISC : 102237785*
 *Sovereignty // Integrity // Inexorabilis*
-*This template requires review by qualified legal counsel before use. Not legal advice.*
+*Version française rédigée par IA et non révisée. Ce modèle doit être examiné par un conseiller juridique qualifié avant utilisation. Il ne constitue pas un avis juridique.*

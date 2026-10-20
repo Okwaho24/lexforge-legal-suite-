@@ -73,7 +73,7 @@ export function buildBundle(req, { templatesRoot = TEMPLATES_ROOT, env = process
       const enBody = lang !== 'EN' && existsSync(enFile) ? bodyFingerprint(readFileSync(enFile, 'utf8')) : null;
       const defects = templateDefects({ rel, raw, lang, enBody, verified });
       if (defects.length) { fail(defects.join('; ')); continue; }
-      const text = renderContent(raw.toString('utf8'), vars);
+      const text = renderContent(raw.toString('utf8'), vars, lang);
       const open = unresolvedPlaceholders(text);
       if (open.length) { problems.push({ doc: code, lang, why: `unresolved variables: ${open.join(', ')}`, code: 'unresolved_variables' }); continue; }
       documents.push({ path: `legal/${lang}/${code}.md`, content: text });

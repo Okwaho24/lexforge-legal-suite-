@@ -106,33 +106,29 @@ test('Quebec: French is mandatory — unreviewed French blocks the sale, reviewe
   assert.equal(out.documents.length, 8);
 });
 
-test('Canada outside Quebec: unreviewed French is dropped and disclosed, English still ships', () => {
+test('Canada outside Quebec: French is also mandatory (owner decision) — unreviewed French blocks the sale', () => {
   resetFixture(); verifyAll();
   const pinsEn = Object.fromEntries(Object.entries(pins).filter(([k]) => !k.includes('/FR.md')));
   writeFileSync(join(root, 'VERIFIED.json'), JSON.stringify({ verified: pinsEn }));
+  assert.equal(code(() => buildBundle({ ...base, jurisdiction: 'CA' })), 'content_not_verified');
+  verifyAll();
   const out = buildBundle({ ...base, jurisdiction: 'CA' });
-  assert.deepEqual(out.languages_shipped, ['EN']);
-  assert.ok(out.languages_unavailable.FR.length === 4);
+  assert.deepEqual(out.languages_shipped.sort(), ['EN', 'FR']);
 });
 
-test('a language ships complete or not at all (no half-translated bundle)', () => {
+test('a language ships complete or not at all: one unreviewed French document blocks the Canadian sale', () => {
   resetFixture(); verifyAll();
   delete pins[`${DOCUMENT_FOLDERS.TOS}/CA/FR.md`];
   writeFileSync(join(root, 'VERIFIED.json'), JSON.stringify({ verified: pins }));
-  const out = buildBundle({ ...base, jurisdiction: 'CA' });
-  assert.deepEqual(out.languages_shipped, ['EN']);
-  assert.ok(out.languages_unavailable.FR);
+  assert.equal(code(() => buildBundle({ ...base, jurisdiction: 'CA' })), 'content_not_verified');
 });
 
 test('untranslated template (same body as English) is rejected as a defect', () => {
   resetFixture();
-  for (const c of ['EUA', 'TOS', 'PP', 'WA']) write(c, 'CA', 'FR', TEXT.EN, s => s.replace('Language: FR', 'Language: FR'));
-  // make FR body equal EN body apart from header lines
   for (const c of ['EUA', 'TOS', 'PP', 'WA']) writeFileSync(join(root, DOCUMENT_FOLDERS[c], 'CA', 'FR.md'), readFileSync(join(root, DOCUMENT_FOLDERS[c], 'CA', 'EN.md'), 'utf8').replace('Language: EN', 'Language: FR'));
   verifyAll();
-  const out = buildBundle({ ...base, jurisdiction: 'CA' });
-  assert.deepEqual(out.languages_shipped, ['EN']);
-  assert.match(JSON.stringify(out.languages_unavailable.FR), /identical to the English/);
+  try { buildBundle({ ...base, jurisdiction: 'CA' }); assert.fail('should refuse'); }
+  catch (e) { assert.equal(e.code, 'content_not_verified'); assert.match(JSON.stringify(e.details), /identical to the English/); }
 });
 
 test('language_pref: German buyer in the EU gets EN+DE; unsupported choice is disclosed, English ships', () => {

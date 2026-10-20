@@ -3,14 +3,10 @@
 const ALL_JURISDICTIONS = ['US', 'CA', 'EU', 'UK', 'BR', 'AE', 'SG'];
 const ALL_LANGUAGES = ['EN', 'FR', 'DE', 'PT', 'ES', 'AR', 'ZH'];
 
+// Only languages that really exist. CA ships English + Quebec French (FR = fr-CA). Every other jurisdiction is English only:
+// the former DE/PT/ES/AR/ZH/FR files were English text under foreign-language labels and are no longer generated.
 const JURISDICTION_LANGUAGES = {
-  US: ALL_LANGUAGES,
-  CA: ALL_LANGUAGES,
-  EU: ALL_LANGUAGES,
-  UK: ALL_LANGUAGES,
-  BR: ALL_LANGUAGES,
-  AE: ALL_LANGUAGES,
-  SG: ALL_LANGUAGES,
+  US: ['EN'], CA: ['EN', 'FR'], EU: ['EN'], UK: ['EN'], BR: ['EN'], AE: ['EN'], SG: ['EN'],
 };
 
 const JURISDICTION_RULES = {

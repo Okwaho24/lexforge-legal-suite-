@@ -20,7 +20,8 @@ const FOLD = { FR_CA: 'FR', FR_FR: 'FR', PT_PT: 'PT', PT_BR: 'PT', AR_GULF: 'AR'
 const fold = code => FOLD[code] ?? code;
 
 // Languages the customer's law REQUIRES us to ship (spec: "Quebec — both required by law").
-const MANDATORY = { 'CA-QC': ['EN', 'FR'] };
+// Owner decision (2026-10-20): every Canadian sale ships English + Quebec French, not just Quebec.
+const MANDATORY = { 'CA-QC': ['EN', 'FR'], CA: ['EN', 'FR'] };
 
 export class BundleError extends Error {
   constructor(code, message, details) { super(message); this.code = code; this.details = details; }

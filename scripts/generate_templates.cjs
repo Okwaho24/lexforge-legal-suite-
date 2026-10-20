@@ -4,6 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 const { ACERBE_BY_JURISDICTION } = require('./acerbe_clauses.cjs');
+const { buildFrCa } = require('./fr_ca.cjs');
 const { JURISDICTION_RULES, JURISDICTION_LANGUAGES, ALL_JURISDICTIONS } = require('./jurisdiction_rules.cjs');
 
 const args = process.argv.slice(2);
@@ -673,6 +674,8 @@ for (const jur of jurisdictionsToRun) {
   for (const doc of DOCS) {
     for (const lang of languages) {
       try {
+        // fr-CA (Quebec French) is a real, separately written translation, used for the CA jurisdiction only.
+        if (jur === 'CA' && lang === 'FR') { writeTemplate(doc, jur, lang, buildFrCa(doc.id)); continue; }
         const bodyFn = BODY_BUILDERS[doc.id];
         const body = bodyFn(jur, lang, rules, acerbe);
         const content = [

@@ -1,64 +1,64 @@
 <!--
   LexForge™ | ARC-LXF-001
-  Document : Independent Contractor Agreement
-  Jurisdiction: CA | Language: FR
-  Governing Law: Ontario, Canada
-  Currency: USD
-  Generated: 2026-10-20
+  Document : Contrat d'entrepreneur indépendant
+  Juridiction : CA | Langue : fr-CA
+  Droit applicable : Ontario (Canada)
+  Devise : USD
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
+  Version française rédigée par IA — révision requise (voir docs/FR_CA_REVIEW.md)
 -->
 
-# Independent Contractor Agreement
-**LexForge™ Document ID:** ARC-LXF-04-ICA | **Jurisdiction:** CA | **Language:** FR
-**Governing Law:** Ontario, Canada | **Currency:** USD
-**Effective Date:** {{EFFECTIVE_DATE}}
+# Contrat d'entrepreneur indépendant
+**Identifiant LexForge™ :** ARC-LXF-04-ICA | **Juridiction :** CA | **Langue :** fr-CA
+**Droit applicable :** Ontario (Canada) | **Devise :** USD
+**Date d'entrée en vigueur :** {{EFFECTIVE_DATE}}
 
 ---
 
 ## PARTIES
-**Client:** {{CLIENT_LEGAL_NAME}} ("Client") | **Contractor:** {{CONTRACTOR_LEGAL_NAME}} ("Contractor")
-**Effective Date:** {{EFFECTIVE_DATE}}
+**Client :** {{CLIENT_LEGAL_NAME}} (le « Client ») | **Entrepreneur :** {{CONTRACTOR_LEGAL_NAME}} (l'« Entrepreneur »)
+**Date d'entrée en vigueur :** {{EFFECTIVE_DATE}}
 
 ---
 
-## 1. INDEPENDENT CONTRACTOR STATUS
-Contractor is an independent contractor. No employment, partnership, or agency relationship is created. Contractor is responsible for own taxes (T4A issued where applicable).
+## 1. STATUT D'ENTREPRENEUR INDÉPENDANT
+L'Entrepreneur est un entrepreneur indépendant. Aucun lien d'emploi, de société ou de mandat n'est créé. L'Entrepreneur est responsable de ses propres impôts (feuillet T4A émis s'il y a lieu).
 
 ## 2. SERVICES
-Contractor shall perform services per each Statement of Work. Services performed in a professional manner.
+L'Entrepreneur exécute les services conformément à chaque énoncé de travail. Les services sont exécutés de façon professionnelle.
 
-## 3. COMPENSATION
-Fees per SOW in USD. Payment due {{PAYMENT_TERMS|30 days}}. No benefits, workers' compensation, or employer contributions.
+## 3. RÉMUNÉRATION
+Frais selon l'EDT, en USD. Paiement exigible dans un délai de {{PAYMENT_TERMS|30 jours}}. Aucun avantage social, aucune indemnisation des accidents du travail et aucune cotisation d'employeur.
 
-## 4. INTELLECTUAL PROPERTY
-Work product owned by Client upon full payment. Contractor retains tools and methodologies. AcerbE™ hard gate applies to all digital deliverables: tampering violates Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence.
+## 4. PROPRIÉTÉ INTELLECTUELLE
+Le Client est propriétaire du produit du travail dès le paiement intégral. L'Entrepreneur conserve ses outils et ses méthodologies. La barrière obligatoire AcerbE™ s'applique à tous les livrables numériques : leur altération contrevient à la Loi sur le droit d'auteur (L.R.C. 1985, ch. C-42), art. 41.1 (mesures techniques de protection) et à la législation provinciale applicable en matière de secrets commerciaux et le droit commun de l'abus de confiance.
 
-## 5. CONFIDENTIALITY
-Contractor holds Client's Confidential Information in strict confidence. Survives 3 years.
+## 5. CONFIDENTIALITÉ
+L'Entrepreneur garde strictement confidentiels les renseignements confidentiels du Client. L'obligation subsiste 3 ans.
 
-## 6. GOVERNING LAW
-Ontario, Canada. Disputes: ADR Institute of Canada (ADRIC) under ADRIC Arbitration Rules.
+## 6. DROIT APPLICABLE
+Ontario (Canada). Différends : Institut d'arbitrage et de médiation du Canada (IAMC) selon les Règles d'arbitrage de l'IAMC.
 
 ## SIGNATURES
-**CLIENT:** Sig: ___ | Name: {{CLIENT_SIGNATORY}} | Date: ___
-**CONTRACTOR:** Sig: ___ | Name: {{CONTRACTOR_SIGNATORY}} | Date: ___
+**CLIENT :** Sig. : ___ | Nom : {{CLIENT_SIGNATORY}} | Date : ___
+**ENTREPRENEUR :** Sig. : ___ | Nom : {{CONTRACTOR_SIGNATORY}} | Date : ___
 
 
 ---
 
-## ACERBE™ FINGERPRINT NOTICE
+## AVIS SUR L'EMPREINTE ACERBE™
 
-This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
+Le présent document et tous les livrables numériques associés portent une empreinte cryptographique AcerbE™ intégrée.
 
-- Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence
-- Forensic trace is preserved regardless of file modification
+- Le retrait ou l'altération **met immédiatement fin** à la présente entente et à toutes les garanties
+- L'altération peut contrevenir à la Loi sur le droit d'auteur (L.R.C. 1985, ch. C-42), art. 41.1 (mesures techniques de protection) et à la législation provinciale applicable en matière de secrets commerciaux et le droit commun de l'abus de confiance
+- La trace médicolégale est conservée malgré toute modification du fichier
 
-> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ est un produit d'Archer Chain Analytics | ISC 102237785*
 
 ---
 
-*Generated by LexForge™ | ARC-LXF-001 | © 2026 Neil Scott Archer / Archer Chain Analytics | ISC: 102237785*
+*Généré par LexForge™ | ARC-LXF-001 | © 2026 Neil Scott Archer / Archer Chain Analytics | ISC : 102237785*
 *Sovereignty // Integrity // Inexorabilis*
-*This template requires review by qualified legal counsel before use. Not legal advice.*
+*Version française rédigée par IA et non révisée. Ce modèle doit être examiné par un conseiller juridique qualifié avant utilisation. Il ne constitue pas un avis juridique.*
