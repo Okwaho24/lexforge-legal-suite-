@@ -4,7 +4,7 @@
   Jurisdiction: SG | Language: EN
   Governing Law: Singapore
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -27,7 +27,7 @@ You are granted a limited, non-exclusive, non-transferable license to use {{PROD
 You may NOT: (a) copy, modify, or create derivative works; (b) reverse engineer or decompile; (c) redistribute, sublicense, or resell; (d) remove or tamper with AcerbE™ fingerprints; (e) use for unlawful purposes.
 
 ## ACERBE™ FINGERPRINT
-This product carries an embedded AcerbE™ cryptographic fingerprint. Removal or tampering: (a) terminates this license immediately; (b) voids all warranties; (c) may violate undefined and undefined.
+This product carries an embedded AcerbE™ cryptographic fingerprint. Removal or tampering: (a) terminates this license immediately; (b) voids all warranties; (c) may violate Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention) and Common law breach of confidence (Singapore) / Personal Data Protection Act 2012 (PDPA).
 
 ## WARRANTY
 Product warrants material conformance to documentation for {{WARRANTY_PERIOD|90 days}} provided AcerbE™ fingerprint is intact. Implied warranties disclaimed to fullest extent permitted by Singapore law.
@@ -45,10 +45,10 @@ BY INSTALLING OR USING THIS PRODUCT, YOU ACCEPT THIS EULA.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention) and Common law breach of confidence (Singapore) / Personal Data Protection Act 2012 (PDPA)
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

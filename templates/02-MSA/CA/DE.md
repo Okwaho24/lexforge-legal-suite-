@@ -4,7 +4,7 @@
   Jurisdiction: CA | Language: DE
   Governing Law: Ontario, Canada
   Currency: USD
-  Generated: 2026-10-19
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -29,7 +29,7 @@ Provider shall perform services described in each Statement of Work ("SOW") inco
 Fees per SOW, denominated in USD. Payment due {{PAYMENT_TERMS|30 days}}. Late interest: {{LATE_RATE|1.5%}}/month.
 
 ## 3. INTELLECTUAL PROPERTY
-Provider retains all pre-existing IP. Work product ownership per SOW. AcerbE™ fingerprinted deliverables subject to hard gate: tampering violates undefined.
+Provider retains all pre-existing IP. Work product ownership per SOW. AcerbE™ fingerprinted deliverables subject to hard gate: tampering violates Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures).
 
 ## 4. CONFIDENTIALITY
 Mutual NDA. Each Party protects the other's Confidential Information. Survives 3 years post-termination; trade secrets indefinitely.
@@ -52,10 +52,10 @@ Ontario, Canada. Arbitration: ADR Institute of Canada (ADRIC) under ADRIC Arbitr
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

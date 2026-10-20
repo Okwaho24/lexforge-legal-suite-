@@ -4,7 +4,7 @@
   Jurisdiction: BR | Language: EN
   Governing Law: São Paulo, Brazil
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -34,7 +34,7 @@ Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of
 Processor notifies Controller within 72 hours (LGPD Art. 48) of becoming aware of a personal data breach.
 
 ## 5. ACERBE™
-AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: undefined.
+AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais).
 
 ## 6. GOVERNING LAW
 São Paulo, Brazil. This DPA is governed by Lei Geral de Proteção de Dados (LGPD) — Lei nº 13.709/2018.
@@ -50,10 +50,10 @@ São Paulo, Brazil. This DPA is governed by Lei Geral de Proteção de Dados (LG
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Lei nº 9.610/1998 Art. 107 (medidas tecnológicas de proteção — Lei de Direitos Autorais) and Lei nº 9.279/1996 Art. 195 (segredo industrial — Lei de Propriedade Industrial)
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

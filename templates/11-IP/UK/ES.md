@@ -4,7 +4,7 @@
   Jurisdiction: UK | Language: ES
   Governing Law: England and Wales
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -34,7 +34,7 @@ To the extent permitted by England and Wales law, all Work Product constitutes a
 Assignor waives all moral rights to the fullest extent permitted by applicable law.
 
 ## 5. ACERBE™
-All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: undefined.
+All digital deliverables carry AcerbE™ fingerprint. Assignment is void if fingerprint is tampered with prior to delivery. Enforcement: Copyright, Designs and Patents Act 1988 s. 296ZA (technological protection measures).
 
 ## 6. FURTHER ASSURANCES
 Assignor shall execute additional documents as needed to perfect Assignee's ownership.
@@ -53,10 +53,10 @@ England and Wales. Disputes: London Court of International Arbitration (LCIA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright, Designs and Patents Act 1988 s. 296ZA (technological protection measures) and Trade Secrets (Enforcement, etc.) Regulations 2018
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

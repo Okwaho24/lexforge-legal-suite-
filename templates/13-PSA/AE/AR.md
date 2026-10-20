@@ -4,7 +4,7 @@
   Jurisdiction: AE | Language: AR
   Governing Law: Dubai International Financial Centre (DIFC), UAE
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -34,7 +34,7 @@ Upon full payment, Client owns all deliverables. Provider retains general skills
 Provider warrants services will be performed in a professional manner conforming to industry standards.
 
 ## 5. ACERBE™
-All digital deliverables carry AcerbE™ cryptographic fingerprint. Tampering voids warranties and may violate undefined.
+All digital deliverables carry AcerbE™ cryptographic fingerprint. Tampering voids warranties and may violate UAE Federal Law No. 38 of 2021 on Copyrights and Related Rights, Art. 38 (technological protection measures).
 
 ## 6. LIMITATION OF LIABILITY
 Provider's liability capped at fees paid in prior 3 months.
@@ -53,10 +53,10 @@ Dubai International Financial Centre (DIFC), UAE. Disputes: Dubai International 
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate UAE Federal Law No. 38 of 2021 on Copyrights and Related Rights, Art. 38 (technological protection measures) and UAE Federal Law No. 15 of 1980 on Commercial Agencies / DIFC common law breach of confidence
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

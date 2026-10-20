@@ -11,8 +11,8 @@ const ACERBE_BASE = `
 ---
 ## AcerbE™ DIGITAL FINGERPRINT — ENFORCEMENT NOTICE
 
-This document is protected by AcerbE™, the military-grade digital fingerprint
-system operated by Archer Chain Analytics (ISC: 102237785 | CRA BN: 709110639).
+This document is protected by AcerbE™, the cryptographic digital fingerprint
+system operated by Archer Chain Analytics (ISC: 102237785).
 
 Each copy of this document carries a unique cryptographic fingerprint anchored
 to the originating license. The fingerprint is structurally embedded — removal
@@ -110,8 +110,8 @@ function getAcerbeClause(jur) {
 ---
 ## AcerbE™ DIGITAL FINGERPRINT — ENFORCEMENT NOTICE
 
-This document is protected by AcerbE™, the military-grade digital fingerprint
-system operated by Archer Chain Analytics (ISC: 102237785 | CRA BN: 709110639).
+This document is protected by AcerbE™, the cryptographic digital fingerprint
+system operated by Archer Chain Analytics (ISC: 102237785).
 
 ### Jurisdiction-Specific Legal Basis (${jur})
 

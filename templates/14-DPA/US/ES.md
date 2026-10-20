@@ -4,7 +4,7 @@
   Jurisdiction: US | Language: ES
   Governing Law: Delaware, United States
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -34,7 +34,7 @@ Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of
 Processor notifies Controller within 72 hours (California) / 30 days (federal standard) of becoming aware of a personal data breach.
 
 ## 5. ACERBE™
-AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: undefined.
+AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA).
 
 ## 6. GOVERNING LAW
 Delaware, United States. This DPA is governed by CCPA/CPRA (California) and applicable U.S. state privacy laws.
@@ -50,10 +50,10 @@ Delaware, United States. This DPA is governed by CCPA/CPRA (California) and appl
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate 17 U.S.C. § 1201 (Digital Millennium Copyright Act — DMCA) and 18 U.S.C. § 1836 (Defend Trade Secrets Act — DTSA); applicable state UTSA
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

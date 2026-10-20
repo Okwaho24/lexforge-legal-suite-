@@ -3,7 +3,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { getAcerbeClause } = require('./acerbe_clauses.cjs');
+const { ACERBE_BY_JURISDICTION } = require('./acerbe_clauses.cjs');
 const { JURISDICTION_RULES, JURISDICTION_LANGUAGES, ALL_JURISDICTIONS } = require('./jurisdiction_rules.cjs');
 
 const args = process.argv.slice(2);
@@ -72,7 +72,7 @@ This document and all associated digital deliverables carry an embedded AcerbE�
 - Tampering may violate ${acerbe.circumvention} and ${acerbe.tradesecrets}
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 
@@ -667,7 +667,8 @@ for (const jur of jurisdictionsToRun) {
   const rules = JURISDICTION_RULES[jur];
   if (!rules) { console.error(`[ERROR] Unknown jurisdiction: ${jur}`); errors++; continue; }
   const languages = JURISDICTION_LANGUAGES[jur];
-  const acerbe = getAcerbeClause(jur);
+  const acerbe = ACERBE_BY_JURISDICTION[jur];
+  if (!acerbe) { console.error(`[ERROR] No AcerbE™ clause for jurisdiction: ${jur}`); errors++; continue; }
 
   for (const doc of DOCS) {
     for (const lang of languages) {

@@ -4,7 +4,7 @@
   Jurisdiction: CA | Language: PT
   Governing Law: Ontario, Canada
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -38,7 +38,7 @@ Investor receives {{LIQUIDATION_MULTIPLE|1x}} liquidation preference before comm
 Offered under NI 45-106 Accredited Investor Exemption. No registration required.
 
 ## 5.10. ACERBE™
-AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate undefined and undefined.
+AcerbE™ fingerprints protect all Company digital assets. Investor tampering with AcerbE™ fingerprints on any Company asset: (a) constitutes material breach; (b) triggers forced repurchase at cost; (c) may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence.
 
 ## 6. GOVERNING LAW
 Ontario, Canada. Arbitration: ADR Institute of Canada (ADRIC).
@@ -54,10 +54,10 @@ Ontario, Canada. Arbitration: ADR Institute of Canada (ADRIC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

@@ -4,7 +4,7 @@
   Jurisdiction: SG | Language: FR
   Governing Law: Singapore
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -31,7 +31,7 @@ Except for Sections marked BINDING, this MOU is non-binding and does not create 
 ## BINDING PROVISIONS
 - Confidentiality: Each Party protects the other's Confidential Information for {{CONF_TERM|2 years}}
 - No Partnership: Nothing herein creates a partnership, joint venture, or agency
-- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates undefined
+- AcerbE™: All shared digital assets carry AcerbE™ fingerprint. Tampering violates Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention)
 
 ## GOVERNING LAW
 Singapore.
@@ -47,10 +47,10 @@ Singapore.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention) and Common law breach of confidence (Singapore) / Personal Data Protection Act 2012 (PDPA)
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

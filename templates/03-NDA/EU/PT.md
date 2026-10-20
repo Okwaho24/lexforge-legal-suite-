@@ -4,7 +4,7 @@
   Jurisdiction: EU | Language: PT
   Governing Law: Republic of Ireland (EU member state)
   Currency: USD
-  Generated: 2026-10-19
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -45,10 +45,10 @@ Republic of Ireland (EU member state). Disputes: Court of Arbitration of the Int
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Directive 2001/29/EC Art. 6 (InfoSoc Directive — technological protection measures) and Directive (EU) 2016/943 (Trade Secrets Directive)
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

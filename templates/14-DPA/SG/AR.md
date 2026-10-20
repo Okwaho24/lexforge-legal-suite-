@@ -4,7 +4,7 @@
   Jurisdiction: SG | Language: AR
   Governing Law: Singapore
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -34,7 +34,7 @@ Approved sub-processors listed in Annex 2. Processor provides 30 days' notice of
 Processor notifies Controller within 3 business days (PDPA mandatory breach notification) of becoming aware of a personal data breach.
 
 ## 5. ACERBE™
-AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: undefined.
+AcerbE™ fingerprint tampering on any processed digital asset constitutes a security event requiring immediate notification under this DPA. Enforcement: Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention).
 
 ## 6. GOVERNING LAW
 Singapore. This DPA is governed by Personal Data Protection Act 2012 (PDPA).
@@ -50,10 +50,10 @@ Singapore. This DPA is governed by Personal Data Protection Act 2012 (PDPA).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention) and Common law breach of confidence (Singapore) / Personal Data Protection Act 2012 (PDPA)
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

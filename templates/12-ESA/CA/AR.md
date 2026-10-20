@@ -4,7 +4,7 @@
   Jurisdiction: CA | Language: AR
   Governing Law: Ontario, Canada
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -38,7 +38,7 @@ All work product created during employment is owned by Employer. Employee assign
 Employee shall not disclose Employer's Confidential Information during or after employment. Survives {{CONF_SURVIVAL|3 years}}.
 
 ## 6. ACERBE™
-Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate undefined.
+Unauthorized removal or tampering with AcerbE™ fingerprints on Employer's digital assets constitutes immediate grounds for termination for cause and may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures).
 
 ## 7. GOVERNING LAW
 Ontario, Canada.
@@ -54,10 +54,10 @@ Ontario, Canada.
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act (R.S.C. 1985, c. C-42) s. 41.1 (technological protection measures) and Uniform Trade Secrets Act (provincial) and common law breach of confidence
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

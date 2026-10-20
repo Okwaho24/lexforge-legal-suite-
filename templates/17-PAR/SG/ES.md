@@ -4,7 +4,7 @@
   Jurisdiction: SG | Language: ES
   Governing Law: Singapore
   Currency: USD
-  Generated: 2026-10-06
+  Generated: 2026-10-20
   Owner: Neil Scott Archer | Archer Chain Analytics | ISC 102237785
   AcerbE™ Hard Gate: ACTIVE
 -->
@@ -39,7 +39,7 @@ Decisions require {{DECISION_THRESHOLD|majority}} approval. Day-to-day managemen
 Before transferring any partnership interest, offering Partner must first offer to remaining Partners at same price and terms. ROFR period: {{ROFR_PERIOD|30 days}}.
 
 ## 6. ACERBE™
-Tampering with AcerbE™ fingerprints on partnership digital assets constitutes material breach and triggers immediate buyout at book value. Enforcement: undefined.
+Tampering with AcerbE™ fingerprints on partnership digital assets constitutes material breach and triggers immediate buyout at book value. Enforcement: Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention).
 
 ## 7. GOVERNING LAW
 Singapore. Arbitration: Singapore International Arbitration Centre (SIAC).
@@ -55,10 +55,10 @@ Singapore. Arbitration: Singapore International Arbitration Centre (SIAC).
 This document and all associated digital deliverables carry an embedded AcerbE™ cryptographic fingerprint.
 
 - Removal or tampering **immediately voids** this agreement and all warranties
-- Tampering may violate undefined and undefined
+- Tampering may violate Copyright Act 2021 (Singapore) s. 261 (technological protection measures — TPM circumvention) and Common law breach of confidence (Singapore) / Personal Data Protection Act 2012 (PDPA)
 - Forensic trace is preserved regardless of file modification
 
-> *AcerbE™ is a registered product of Archer Chain Analytics | ISC 102237785*
+> *AcerbE™ is a product of Archer Chain Analytics | ISC 102237785*
 
 ---
 

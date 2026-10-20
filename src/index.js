@@ -16,7 +16,11 @@ export function createApp() {
   // custom middleware first, so express.json() failed with "stream is not readable" on every request.)
   app.use(express.json({ limit: '256kb', verify: (req, _res, buf) => { req.rawBody = buf.toString('utf8'); } }));
 
-  app.post('/webhook/lexforge', handleWebhook);
+  // Legacy un-gated route: it bypassed the legal content gate and delivered unresolved placeholders.
+  // Disabled; use /webhook/lexforge/bundle (gated). Re-enable only via LEXFORGE_LEGACY_WEBHOOK=1 after review.
+  app.post('/webhook/lexforge', process.env.LEXFORGE_LEGACY_WEBHOOK === '1'
+    ? handleWebhook
+    : (_req, res) => res.status(410).json({ error: 'endpoint retired; use /webhook/lexforge/bundle' }));
   app.post('/webhook/lexforge/bundle', bundleHandler);
   app.post('/webhook/lexforge/availability', availabilityHandler);
 
